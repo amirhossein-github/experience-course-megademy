@@ -21,13 +21,13 @@
     6. Under "Build and deployment", under "Branch", use the branch dropdown menu and select a publishing source. (main)
     7. In your repository, in the About section, click on the gear.
     8. Tick "Use your GitHub Pages website" to enable it.
-    - Visual Studio Code Extention required for this course:
-    1. **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
-    2. **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)**
-    3. **[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)**
-    4. **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
-    5. **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)**
-    6. **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
+- Visual Studio Code Extention required for this course:
+1. **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
+2. **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)**
+3. **[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)**
+4. **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
+5. **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)**
+6. **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**
 
 ### Javascript
 - How to add javascript code in html file.<br>
