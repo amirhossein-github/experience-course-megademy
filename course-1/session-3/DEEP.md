@@ -63,3 +63,15 @@ console.profileEnd()
 
 
 </details>
+
+<details><summary>What is the TypeScript</summary>
+
+A superset is a language that includes all of the features of another language, as well as additional features. For example, Kotlin is a superset of Java, C++ is (mostly) a superset of C.
+
+TypeScript is referred to as an Object-oriented programming language; on the other hand, JavaScript is a prototype-based language.
+
+Prototype-based programming is a style of object-oriented programming in which classes are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, adding them to an empty object.
+
+TypeScript offers static types mean variables, objects, and functions, whereas JavaScript doesn't require the explicit declaration of the variables before they're used
+
+</details>
