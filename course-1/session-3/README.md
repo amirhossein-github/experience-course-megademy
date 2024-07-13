@@ -44,6 +44,7 @@ To see what a variable type is, we can use the following command.
 ```js
 const color = 'red'
 console.log(typeof color)
+// string
 ```
 ---
 ![Static Badge](https://img.shields.io/badge/%3A%29-0?style=plastic&logo=gnu%20bash&logoColor=black&labelColor=white&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github%2Fteacher-khateri%2Fblob%2Fmain%2Fcourse-1%2Fsession-3%2FDEEP.md)
