@@ -49,3 +49,17 @@ console.profileEnd()
 ```
 
 </details>
+
+<details><summary>How to Make JavaScript Code Harder to Read</summary>
+
+1. Obfuscate the javascript code
+    - change the variable name
+2. Server Side Rendering
+    - sensitive code -> server side
+    - sensitive information -> server side
+3. Javascript minification
+    - removing unnecessary characters
+4. Disabling the right mouse click
+
+
+</details>
