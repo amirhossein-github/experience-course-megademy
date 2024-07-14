@@ -125,3 +125,60 @@ Prototype-based programming is a style of object-oriented programming in which c
 TypeScript offers static types mean variables, objects, and functions, whereas JavaScript doesn't require the explicit declaration of the variables before they're used
 
 </details>
+
+<details><summary>Datatypes and Variables</summary>
+
+### Var, Const, Let
+**var**: Declares a variable, optionally initializing it to a value.<br>
+**let**: Declares a block-scoped, local variable, optionally initializing it to a value.<br>
+**const**: Declares a block-scoped, read-only named constant.<br>
+
+### null, undefined, boolean, number, bigint, string, symbol
+
+#### Symbol
+```js
+let sym2 = Symbol('foo')
+let sym3 = Symbol('foo')
+Symbol('foo') === Symbol('foo')  // false
+```
+
+But what's the point ???
+
+#### null and undefined
+undefined means a variable has been declared but has not yet been assigned a value, whereas null is an assignment value, meaning that a variable has been declared and given the value of null .
+
+#### boolean
+true, false
+
+#### number 
+```js
+255; // two-hundred and fifty-five
+255.0; // same number
+255 === 255.0; // true
+255 === 0xff; // true (hexadecimal notation)
+255 === 0b11111111; // true (binary notation)
+255 === 0.255e3; // true (decimal exponential notation)
+```
+
+#### bigint
+too larg number
+```js
+const previouslyMaxSafeInteger = 9007199254740991n;
+const alsoHuge = BigInt(9007199254740991);
+// 9007199254740991n
+const hugeString = BigInt("9007199254740991");
+// 9007199254740991n
+const hugeHex = BigInt("0x1fffffffffffff");
+// 9007199254740991n
+const hugeOctal = BigInt("0o377777777777777777");
+// 9007199254740991n
+const hugeBin = BigInt(
+  "0b11111111111111111111111111111111111111111111111111111",
+);
+// 9007199254740991n
+```
+
+#### string
+Like Always
+
+</details>
