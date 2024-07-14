@@ -21,6 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/%40Rezaslm0-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FRezaslm0)
 ![Static Badge](https://img.shields.io/badge/%40MohammadAshoori-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FMohammadAshoori)
 ![Static Badge](https://img.shields.io/badge/%40danial87j-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Fdanial87j)
+![Static Badge](https://img.shields.io/badge/%40amirali192-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirali192)
 
 ## Course 2
 Comming soon.
