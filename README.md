@@ -8,6 +8,8 @@
 - [Session 1](https://github.com/amirhossein-github/master-khateri/blob/main/course-1/session-1/README.md) Overview.
 - [Session 2](https://github.com/amirhossein-github/master-khateri/blob/main/course-1/session-2/README.md) Prerequisites for JavaScript During the Course.
 - [Session 3](https://github.com/amirhossein-github/master-khateri/blob/main/course-1/session-3/README.md) Basic Topics of Programming and Some  Terms of GitHub and a Little JavaScript.
+- [Session 4](https://github.com/amirhossein-github/master-khateri/blob/main/course-1/session-4/README.md) Conventional Commit for Github, Variable and Data Type in Javascript.
+
 #### Course Members
 ![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)
 ![Static Badge](https://img.shields.io/badge/%40huntergreyn-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Fhuntergreyn)
