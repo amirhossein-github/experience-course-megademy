@@ -21,7 +21,8 @@ body {
     }
 
     div#courses {
-        margin: auto 100px;
+        width: 500px;
+        margin: 1% auto;
     
         ul { 
             list-style-type: none;
