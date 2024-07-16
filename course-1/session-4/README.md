@@ -88,4 +88,63 @@ const googoleDNS1 = '8.8.8.8', googoleDNS2 = '8.8.4.4'
 teacherName = 'ali' // Error >>> TypeError: Assignment to constant variable.
 ```
 
+## Methods of Data Type 'String' and 'Number'
+**length (string)**: The value it returns is numerical and the number of strings.
+```js
+let myName = 'amirhossein'
+let numberOfString = myName.length
+console.log(numberOfString) // 11
+```
+
+> [!NOTE]
+> To the methods to use them Parentheses are not needed, they are called properties.
+
+**toLocaleLowerCase And toLocaleUpperCase (string)**:<br>
+We can use the above methods to make all the letters of a string small(lowercase) or big(uppercase).
+```js
+const example = 'AbcdEFGhiJklmn'
+console.log(example.toLocaleUpperCase) // ABCDEFGHIJKLMN
+console.log(example.toLocalelowerCase) // abcdefghijklmn
+```
+**slice (string)**: We can use the slice method to display part of the target string.
+```js
+const googleAddress = 'https://www.google.com'
+const facebookAddress = 'https://www.facebook.com'
+const amazonAddress = 'https://www.amazon.com'
+
+console.log(googleAddress.slice(8)) // www.google.com
+console.log(facebookAddress.slice(8)) // www.facebook.com
+console.log(amazonAddress.slice(8))  // www.amazon.com
+```
+**toFixed (number)**: It is used to display several decimal digits.
+```js
+let example = 14.313
+
+console.log(example.toFixed(1)) // 14.3
+console.log(example.toFixed(2)) // 14.31
+console.log(example.toFixed(3)) // 14.313
+console.log(example.toFixed(4)) // 14.3130
+console.log(example.toFixed(5)) // 14.31300
+```
+
+> [!NOTE]
+> The JavaScript language automatically determines the type of data, and this is because "Dynamic Typing".
+
+**Convert String to Number**: `Number()`
+```js
+let age = '25'
+console.log('Year of Birth: ', 1403 - Number(age)) // Year of Birht : 1378
+```
+
+**Console behavior with String and Number data type**:
+```js
+// string + string
+console.log('11' + '11') // 1111, string
+
+// string + number
+console.log('11' + 11) // 1111, string
+
+// number + number
+console.log(11 + 11) // 22, number
+```
 [^1]: [ref](https://www.conventionalcommits.org/en/v1.0.0/)
