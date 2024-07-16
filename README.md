@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/%40ArshiaArshadi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FArshiaArshadi)
 
 #### Course Exercises
-- [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object Scholl
+- [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object School
 
 ## Course 2
 Comming soon.
