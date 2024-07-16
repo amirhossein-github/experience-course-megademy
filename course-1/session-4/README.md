@@ -147,4 +147,60 @@ console.log('11' + 11) // 1111, string
 // number + number
 console.log(11 + 11) // 22, number
 ```
+
+## Objects
+When we want to ste orseveral data that are related to each other, we should do as below.
+```js
+let fName1 = 'ali'
+let lName1 = 'mohammadi'
+let phone1 = '***'
+let email1 = 'ali@gmail.com'
+let age1 = 15
+let male1 = true
+
+let fName2 = 'fatemeh'
+let lName2 = 'moradi'
+let phone2 = '***'
+let email2 = 'fatemeh@yahoo.com'
+let age2 = 30
+let male2 = false
+
+let fName3 = 'narges'
+let lName3 = 'mahini'
+let phone3 = '***'
+let email3 = 'mahini@gmail.com'
+let age3 = 12
+let male3 = false
+```
+But with the Object, I can do this better and better:
+```js
+let person = {
+    fName : 'amirhossein',
+    lName : 'izadi',
+    phone : '+989174006046',
+    email : 'amirhossein.business.developer@gmail.com',
+    age : 23,
+    male : true,
+}
+```
+
+How to access Object items:
+```js
+let person = {
+    fName : 'amirhossein',
+    lName : 'izadi',
+    phone : '+989174006046',
+    email : 'amirhossein.business.developer@gmail.com',
+    age : 23,
+    male : true,
+}
+
+console.log(person.fName) // amirhossein
+console.log(person.lName) // izadi
+console.log(person.phone) // +989174006046
+console.log(person.email) // amirhossein.business.developer@gmail.com
+console.log(person.age)   // 23
+console.log(person.male)  // true
+```
+
 [^1]: [ref](https://www.conventionalcommits.org/en/v1.0.0/)
