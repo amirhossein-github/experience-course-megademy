@@ -203,4 +203,14 @@ console.log(person.age)   // 23
 console.log(person.male)  // true
 ```
 
+## Exercise
+1. Create an object named school that contains two classes A and B and each class contains three students with the following variable:
+- name
+- family
+- phone number
+- Address
+- GPA or Score: 20
+
+2. Active Github-Pages and put index.html and link your upper exercise to that page.
+
 [^1]: [ref](https://www.conventionalcommits.org/en/v1.0.0/)
