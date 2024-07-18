@@ -1,11 +1,11 @@
 # Object School
+**Date-Start**: 1403,04,24 - 2024,07,14<br>
+**Date-End**:<br>
 
+## Reference - Things that I got help from to make the project
 
-## Things that I got help from to make the project:
-
-### Card Profile Structure
-[Css Card Profile](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)
-![Html, Css Files](./reference/css-card-profile/index.html)
+### Card Profile Structure [Ref](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)
+<a href="./reference/css-card-profile/" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="50" height="50"/></a>
 
 ### Tree Structure
 [Tree 1](https://stackoverflow.com/questions/53151296/family-tree-with-pure-html-and-css-or-with-minimal-js)
