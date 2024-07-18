@@ -13,14 +13,9 @@
 <a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/tree-structure/tree1/" target="_blank">Code</a>&nbsp;[[Ref](https://stackoverflow.com/questions/53151296/family-tree-with-pure-html-and-css-or-with-minimal-js)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/tree-structure/tree2/" target="_blank">Code</a>&nbsp;[[Ref](https://thecodeplayer.com/walkthrough/css3-family-tree)]
 
 
-### Fake Profile Information
-[Iranian Fake ID](https://fauxid.com/fake-name-generator/iran)
-- ![Numer 1](./reference/fake-profile-information/1.png)
-- ![Numer 2](./reference/fake-profile-information/2.png)
-- ![Numer 3](./reference/fake-profile-information/3.png)
-- ![Numer 4](./reference/fake-profile-information/4.png)
-- ![Numer 5](./reference/fake-profile-information/5.png)
-- ![Numer 6](./reference/fake-profile-information/6.png)
+### Fake Profile Information [[Ref](https://fauxid.com/fake-name-generator/iran)]
+<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/1.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/1.png" alt="fake-profile-information" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/2.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/2.png" alt="fake-profile-information" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/3.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/3.png" alt="fake-profile-information" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/4.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/4.png" alt="fake-profile-information" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/5.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/5.png" alt="fake-profile-information" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/fake-profile-information/6.png" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/fake-profile-information/6.png" alt="fake-profile-information" width="100" height="100"/></a>
+
 
 ### Student Profile Images
 [Student Image](https://www.freepik.com/)
