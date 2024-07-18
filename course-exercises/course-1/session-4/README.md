@@ -4,9 +4,9 @@
 
 ## Reference - Things that I got help from to make the project
 
-### Card Profile Structure [[Ref](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)]
+### Card Profile Structure
 <a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="100" height="100"/></a><br>
-<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank">Code</a>
+<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank">Code</a>&nbsp;[[Ref](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)]
 
 ### Tree Structure
 <a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/tree-structure/tree1/" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/tree-structure/tree1/tree1.png" alt="tree1" width="100" height="100"/></a><a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/tree-structure/tree2/" target="_blank"><img src="https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/reference/tree-structure/tree2/tree2.png" alt="tree2" width="100" height="100"/></a><br>
