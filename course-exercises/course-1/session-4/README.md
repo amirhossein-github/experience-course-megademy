@@ -5,7 +5,8 @@
 ## Reference - Things that I got help from to make the project
 
 ### Card Profile Structure [Ref](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)
-<a href="./reference/css-card-profile/" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="100" height="100"/></a>
+<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="100" height="100"/></a><br>
+<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank">Code</a>
 
 ### Tree Structure
 [Tree 1](https://stackoverflow.com/questions/53151296/family-tree-with-pure-html-and-css-or-with-minimal-js)
