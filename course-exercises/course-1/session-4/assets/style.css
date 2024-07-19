@@ -5,9 +5,6 @@
 
 body {
     background: #ecf0f3;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
     > div#tree {
         /* Container */
@@ -140,6 +137,16 @@ body {
           font-weight: 500;
           color: #31344b;
           margin: 10px 0 5px 0;
+        }
+    }
+
+    > div#githubLog {
+        > a > img {
+            margin: 1%;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 50%;
         }
     }
 }
