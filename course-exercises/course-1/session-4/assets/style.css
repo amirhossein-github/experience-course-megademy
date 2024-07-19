@@ -17,6 +17,7 @@ body {
         li:hover {
             background-color: #F8E8EE;
             padding-bottom: 20px;
+
             > ul {
                 display: flex;
             }
@@ -48,36 +49,36 @@ body {
 
         /* The size of the environment of emojis and emojis*/
         > ul > li{
-            width: 150px;
-            height: 150px;
-            > a { font-size: 60px; }
+            width: 120px;
+            height: 120px;
+            > a { font-size: 45px; }
             ul > li {
-                width: 100px;
-                height: 100px;
-                > a { font-size: 40px; }
+                width: 80px;
+                height: 80px;
+                > a { font-size: 30px; }
                 ul > li {
-                    width: 50px;
-                    height: 50px;
-                    > a { font-size: 20px; }
+                    width: 40px;
+                    height: 40px;
+                    > a { font-size: 10px; }
                 }
             }
         }
 
-        /* position of items and size of area */
+        /* Position of items and size of area */
         > ul {
             display: flex;
             justify-content: center;
             position: relative;
             > li > ul {
-                width: 500px;
+                width: 400px;
                 height: 100px;
                 position: absolute;
-                top: 150px;
+                top: 110px;
                 > li > ul {
                     width: 200px;
                     height: 100px;
                     position: absolute;
-                    top: 100px;
+                    top: 90px;
                 }
             }
         }
