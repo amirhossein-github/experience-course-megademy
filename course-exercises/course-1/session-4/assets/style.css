@@ -10,114 +10,69 @@ body {
         width: 500px;
         margin: 5% auto;
 
-        /* School Style */
-        > ul {
-            /* School: Center */
+        /* If hover: Show Subset */
+        li:hover {
+            > ul {
+                display: flex;
+            }
+        }
+
+        /* Total Style */
+        ul {
             list-style-type: none;
             padding-left: 0;
-            display: flex;
+            display: none;
             align-items: center;
-            justify-content: center;
-            position: relative;
+            justify-content: space-around;
+
             > li {
-                /* School: Size and Shadow */
-                transition: all 1s; 
-                border-radius: 50%;
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                width: 150px;
-                height: 150px;
-                box-shadow:
-                    -3px -3px 7px #ffffff,
-                    3px 3px 5px #ceced1;
+                transition: all 1s; 
+                border-radius: 50%;
+                box-shadow:-3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+                
                 > a {
-                    /* School: Emoji */
                     transition: all 1s; 
                     text-decoration: none;
                     color: black;
-                    font-size: 60px;
                 }
-                &:hover {
-                    > ul {
-                        display: flex;
-                    }
+            }
+        }
+
+        /* The size of the environment of emojis and emojis*/
+        > ul > li{
+            width: 150px;
+            height: 150px;
+            > a { font-size: 60px; }
+            ul > li {
+                width: 100px;
+                height: 100px;
+                > a { font-size: 40px; }
+                ul > li {
+                    width: 50px;
+                    height: 50px;
+                    > a { font-size: 20px; }
                 }
-                /* Class Style */
-                > ul {
-                    /* Class: Center */
-                    list-style-type: none;
-                    padding-left: 0;
-                    display: none;
-                    align-items: center;
-                    justify-content: space-around;
-                    width: 500px;
+            }
+        }
+
+        /* position of items and size of area */
+        > ul {
+            display: flex;
+            justify-content: center;
+            position: relative;
+            > li > ul {
+                width: 500px;
+                height: 100px;
+                position: absolute;
+                top: 150px;
+                > li > ul {
+                    width: 200px;
                     height: 100px;
                     position: absolute;
-                    top: 150px;
-                    > li {
-                        /* Class: Size and Shadow */
-                        transition: all 1s;
-                        border-radius: 50%;
-                        display: flex;
-                        align-items: center;
-                        justify-content: center;
-                        width: 100px;
-                        height: 100px;
-                        box-shadow:
-                            -3px -3px 7px #ffffff,
-                            3px 3px 5px #ceced1;
-                        > a {
-                            /* Class: Emoji */
-                            transition: all 1s; 
-                            text-decoration: none;
-                            color: black;
-                            font-size: 40px;
-                        }
-                        &:hover {
-                            > ul {
-                                display: flex;
-                            }
-                        }
-                        /* Student Style */
-                        > ul {
-                            /* Student: Center */
-                            list-style-type: none;
-                            padding-left: 0;
-                            display: none;
-                            align-items: center;
-                            justify-content: space-around;
-                            width: 200px;
-                            height: 100px;
-                            position: absolute;
-                            top: 100px;
-                            > li {
-                                /* Student: Size and Shadow */
-                                transition: all 1s; 
-                                border-radius: 50%;
-                                display: flex;
-                                align-items: center;
-                                justify-content: center;
-                                width: 50px;
-                                height: 50px;
-                                box-shadow:
-                                    -3px -3px 7px #ffffff,
-                                    3px 3px 5px #ceced1;
-                                > a {
-                                    /* Student: Emoji */
-                                    transition: all 1s;
-                                    text-decoration: none;
-                                    color: black;
-                                    font-size: 20px;
-                                }
-                                &:hover {
-                                    > ul {
-                                        display: flex;
-                                    }
-                                }
-                            }
-                        }
-                    }
+                    top: 100px;
                 }
             }
         }
