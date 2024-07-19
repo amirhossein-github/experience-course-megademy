@@ -9,12 +9,14 @@ body {
     justify-content: center;
 
     > div#tree {
-        /* container */
+        /* Container */
         width: 500px;
         margin: 5% auto;
 
         /* If hover: Show Subset */
         li:hover {
+            background-color: #F8E8EE;
+            padding-bottom: 20px;
             > ul {
                 display: flex;
             }
