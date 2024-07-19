@@ -2,6 +2,13 @@
 **Date-Start**: 1403,04,24 - 2024,07,14<br>
 **Date-End**:<br>
 
+## About Exercise
+To do this exercise, you need to create an object named school that includes:<br>
+Object **School** -><br>
+Object **Class A**, Object **Class B** -><br>
+Object **Studnet 1**, Object **Studnet 2**, Object **Studnet 3** -><br>
+Information **Name**, **Family**, **Phone**, **Address**, **Score**<br>
+
 ## My Personal Experience
 ❌ **Work on GitHub**: One of my mistakes was that I did not complete the project on Gate and when it was completed, I sent the project piece by piece on Gate.<br><br>
 ❌ **Lack of proper note aking**: I did not take notes on the progress of the project as expected. which includes 1. Problems 2. Changing routes 3. Forward progress. And this habit is very bad for me.<br><br>
