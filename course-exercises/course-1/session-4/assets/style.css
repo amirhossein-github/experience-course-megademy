@@ -2,6 +2,7 @@
     margin: 0; padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
 body {
     background: #ecf0f3;
     display: flex;
@@ -14,24 +15,23 @@ body {
         margin: 5% auto;
 
         /* If hover: Show Subset */
-        li:hover {
+        li.tree:hover {
             background-color: #F8E8EE;
             padding-bottom: 20px;
-
-            > ul {
+            > ul.tree {
                 display: flex;
             }
         }
 
         /* Total Style */
-        ul {
+        ul.tree {
             list-style-type: none;
             padding-left: 0;
             display: none;
             align-items: center;
             justify-content: space-around;
 
-            > li {
+            > li.tree {
                 display: flex;
                 align-items: center;
                 justify-content: center;
@@ -39,7 +39,7 @@ body {
                 border-radius: 50%;
                 box-shadow:-3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
                 
-                > a {
+                > a.tree {
                     transition: all 1s; 
                     text-decoration: none;
                     color: black;
@@ -48,33 +48,33 @@ body {
         }
 
         /* The size of the environment of emojis and emojis*/
-        > ul > li{
+        > ul.tree > li.tree {
             width: 120px;
             height: 120px;
-            > a { font-size: 45px; }
-            ul > li {
+            > a.tree { font-size: 45px; }
+            ul.tree > li.tree {
                 width: 80px;
                 height: 80px;
-                > a { font-size: 30px; }
-                ul > li {
+                > a.tree { font-size: 30px; }
+                ul.tree > li.tree {
                     width: 40px;
                     height: 40px;
-                    > a { font-size: 10px; }
+                    > a.tree { font-size: 10px; }
                 }
             }
         }
 
         /* Position of items and size of area */
-        > ul {
+        > ul.tree {
             display: flex;
             justify-content: center;
             position: relative;
-            > li > ul {
+            > li.tree > ul.tree {
                 width: 400px;
                 height: 100px;
                 position: absolute;
                 top: 110px;
-                > li > ul {
+                > li.tree > ul.tree {
                     width: 200px;
                     height: 100px;
                     position: absolute;
@@ -83,7 +83,17 @@ body {
             }
         }
     }
-    ul#studentCard {
+
+    /* If hover: Show Subset - Section Student-Card*/ 
+    li.card:hover {
+        > ul.studentCard {
+            display: flex;
+        }
+    }
+
+    ul.studentCard {
+        list-style-type: none;
+        padding-left: 0;
         width: 270px;
         box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
         position: absolute;
@@ -91,12 +101,12 @@ body {
         background: #ecf0f3;
         padding: 10px;
         border-radius: 10px;
-        display: flex;
+        display: none;
         align-items: center;
         justify-content: center;
         flex-direction: column;
         
-        > .img-area{
+        > li#imgOutArea{
           background: #ecf0f3;
           box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
           height: 50px;
@@ -106,7 +116,7 @@ body {
           align-items: center;
           justify-content: center;
         
-          > .inner-area{
+          > div#imgInArea{
             height: calc(100% - 10px);
             width: calc(100% - 10px);
             border-radius: 50%;
