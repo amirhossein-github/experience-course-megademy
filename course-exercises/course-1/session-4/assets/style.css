@@ -83,4 +83,53 @@ body {
             }
         }
     }
+    ul#studentCard {
+        width: 270px;
+        box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+        position: absolute;
+        top: 90px;
+        background: #ecf0f3;
+        padding: 10px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+        > .img-area{
+          background: #ecf0f3;
+          box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        
+          > .inner-area{
+            height: calc(100% - 10px);
+            width: calc(100% - 10px);
+            border-radius: 50%;
+        
+            > img{
+              height: 100%;
+              width: 100%;
+              border-radius: 50%;
+              object-fit: cover;
+            }
+          }
+        }
+        > .about{
+          color: #44476a;
+          font-weight: 400;
+          font-size: 10px;
+        }
+        
+        > .name{
+          font-size: 23px;
+          font-weight: 500;
+          color: #31344b;
+          margin: 10px 0 5px 0;
+        }
+    }
 }
