@@ -6,12 +6,12 @@
 To do this exercise, you need to create an object named school that includes:<br>
 Object **School** -><br>
 Object **Class A**, Object **Class B** -><br>
-Object **Studnet 1**, Object **Studnet 2**, Object **Studnet 3** -><br>
+Object **Student 1**, Object **Student 2**, Object **Student 3** -><br>
 Information **Name**, **Family**, **Phone**, **Address**, **Score**<br>
 
 ## My Personal Experience
 ❌ **Work on GitHub**: One of my mistakes was that I did not complete the project on Gate and when it was completed, I sent the project piece by piece on Gate.<br><br>
-❌ **Lack of proper note aking**: I did not take notes on the progress of the project as expected. which includes 1. Problems 2. Changing routes 3. Forward progress. And this habit is very bad for me.<br><br>
+❌ **Lack of proper note taking**: I did not take notes on the progress of the project as expected. which includes 1. Problems 2. Changing routes 3. Forward progress. And this habit is very bad for me.<br><br>
 ❌ **Sources and references**: Also, I don't correctly remembered the sources and references that I used, and when I made the reference section, I had a problem and had to look for them again.<br><br>
 🟢 **Structure of MarkDown Files**: Because of writing this README.md file, I learned a lot of markdown syntax and now I can do this much better and faster<br><br>
 🟢 **Structure ul > li**: Due to the use of this structure in the project, I am now more proficient in this work style.<br><br>

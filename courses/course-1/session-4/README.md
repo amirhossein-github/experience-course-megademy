@@ -12,7 +12,7 @@
 ```
 **feat**: Introduces a new feature.<br>
 **fix**: Fix a bug or make a change.<br>
-**BREAKING CHABGE**: Making a change that causes another part of the program to not work properly. Changes that cause damage.<br>
+**BREAKING CHANGE**: Making a change that causes another part of the program to not work properly. Changes that cause damage.<br>
 
 > [!IMPORTANT]
 > Commits should be written so well that changes can be noticed without reading the code.
@@ -81,7 +81,7 @@ let studentName = 'amirhossein', age = 22, male = true, height = 224
 ```js
 const teacherName = 'amirhossein'
 const githubAddress = 'https://github.com'
-const googoleDNS1 = '8.8.8.8', googoleDNS2 = '8.8.4.4'
+const googleDNS1 = '8.8.8.8', googleDNS2 = '8.8.4.4'
 
 //--------------------------------------------------
 // If you change the value of the variable
@@ -133,7 +133,7 @@ console.log(example.toFixed(5)) // 14.31300
 **Convert String to Number**: `Number()`
 ```js
 let age = '25'
-console.log('Year of Birth: ', 1403 - Number(age)) // Year of Birht : 1378
+console.log('Year of Birth: ', 1403 - Number(age)) // Year of Birth : 1378
 ```
 
 **Console behavior with String and Number data type**:
@@ -149,7 +149,7 @@ console.log(11 + 11) // 22, number
 ```
 
 ## Objects
-When we want to ste orseveral data that are related to each other, we should do as below.
+When we want to store several data that are related to each other, we should do as below.
 ```js
 let fName1 = 'ali'
 let lName1 = 'mohammadi'

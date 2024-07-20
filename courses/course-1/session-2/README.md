@@ -21,7 +21,7 @@
     6. Under "Build and deployment", under "Branch", use the branch dropdown menu and select a publishing source. (main)
     7. In your repository, in the About section, click on the gear.
     8. Tick "Use your GitHub Pages website" to enable it.
-- Visual Studio Code Extention required for this course:
+- Visual Studio Code Extension required for this course:
 1. **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**
 2. **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)**
 3. **[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)**

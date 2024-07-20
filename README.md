@@ -30,7 +30,7 @@
 - [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object School
 
 ## Course 2
-Comming soon.
+Coming soon.
 
 ## Course 3
-Comming soon.
+Coming soon.

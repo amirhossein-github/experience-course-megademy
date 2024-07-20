@@ -18,8 +18,8 @@
 - **Script**: A piece of code that serves a purpose.
 - **Console**: In Inspect, there is a section called console which helps us to know if our javascript code has encountered a problem during execution or not. The texts that are usually displayed in the console include the requested text, **errors**, **warnings**, and **information**. The most important of all of them are the errors that, if not managed correctly, cause the code to stop running. We can also communicate with the console using the `console.METHOD()` command in JavaScript.
 - **Low and High Programming Language**: High-level languages ​​have a more natural and readable syntax and are closer to human language that makes it easier for programmers to read and understand the code. (Javascript, Php, Python, ...) Low-level languages ​​require more coding and debugging, which increases development time because they are closer to computer and machine languages. (Assembly, 01, ...)
-- **Method**: One of the signs of the method is that it prantes comes after its name Like: `console.log(), alert(), console.errro()`. Methods are like tools in a toolbox, each of which does something for us. Some of them are already defined, some of them we make ourselves.
-- **Compiler and Interpreter**: Interpreter: they execute the code line by line. And if they encounter an error, they stop the execution. (Javascript, Python, Ruby, ...) Compilery: First, they run all the code, if there is no error, they give you an output, and then you can use that output. (C, C++, C#, Java, Swift, ...)<br>
+- **Method**: One of the signs of the method is that it prates comes after its name Like: `console.log(), alert(), console.error()`. Methods are like tools in a toolbox, each of which does something for us. Some of them are already defined, some of them we make ourselves.
+- **Compiler and Interpreter**: Interpreter: they execute the code line by line. And if they encounter an error, they stop the execution. (Javascript, Python, Ruby, ...) Compiler: First, they run all the code, if there is no error, they give you an output, and then you can use that output. (C, C++, C#, Java, Swift, ...)<br>
 In Interpreter mode we can apply changes and get output quickly and see the result. And with tricks, it is possible to prevent stopping the program from errors completely.
 
 ## Javascript
@@ -126,7 +126,7 @@ TypeScript offers static types mean variables, objects, and functions, whereas J
 
 </details>
 
-<details><summary>Datatypes and Variables</summary>
+<details><summary>Datatype and Variables</summary>
 
 ### Var, Const, Let
 **var**: Declares a variable, optionally initializing it to a value.<br>
@@ -161,7 +161,7 @@ true, false
 ```
 
 #### bigint
-too larg number
+too large number
 ```js
 const previouslyMaxSafeInteger = 9007199254740991n;
 const alsoHuge = BigInt(9007199254740991);
