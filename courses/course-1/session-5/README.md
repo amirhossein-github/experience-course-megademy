@@ -17,7 +17,7 @@ let names = {
 // and its not true
 ```
 - Referring to the term of [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-- Javascript key order of object[Ref](https://stackoverflow.com/questions/5525795/does-javascript-guarantee-object-property-order).
+- Javascript key order of object [[Ref](https://stackoverflow.com/questions/5525795/does-javascript-guarantee-object-property-order)].
 - Placing related objects in an object group:
 ```js
 // False
