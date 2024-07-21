@@ -27,6 +27,7 @@
 <a href="https://github.com/amirali192">![Static Badge](https://img.shields.io/badge/%40amirali192-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirali192)</a>
 <a href="https://github.com/D6NiII9L">![Static Badge](https://img.shields.io/badge/%40D6NiII9L-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FD6NiII9L)</a>
 <a href="https://github.com/ArshiaArshadi">![Static Badge](https://img.shields.io/badge/%40ArshiaArshadi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FArshiaArshadi)</a>
+<a href="https://github.com/arashliravi">![Static Badge](https://img.shields.io/badge/%40ArshiaArshadi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Farashliravi)</a>
 
 #### Course Exercises
 - [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object School
