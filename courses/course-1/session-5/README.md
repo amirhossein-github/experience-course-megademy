@@ -43,5 +43,7 @@ let class {
 - We use strings to store the numbers that are not going to be changed and calculated.
 - Write comments regularly.
 - Your code along with its comments should be such that an outsider can easily understand the events and changes.
-
-## How to
+- The space between two braces is called scope. `{ scope }`
+- Never be biased on a programming language , don't say its good that's not good and so on It's just your taste and nothing else.
+- And also our dear teacher talked about the access to information.
+How can we make it easier to access the large amount of data, etc. The topic was just a hint and general so that this issue is in the corner of our minds.
