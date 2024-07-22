@@ -43,3 +43,5 @@ let class {
 - We use strings to store the numbers that are not going to be changed and calculated.
 - Write comments regularly.
 - Your code along with its comments should be such that an outsider can easily understand the events and changes.
+
+## How to
