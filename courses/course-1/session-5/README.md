@@ -47,3 +47,24 @@ let class {
 - Never be biased on a programming language , don't say its good that's not good and so on It's just your taste and nothing else.
 - And also our dear teacher talked about the access to information.
 How can we make it easier to access the large amount of data, etc. The topic was just a hint and general so that this issue is in the corner of our minds.
+
+## Array
+A series of data that may be related and their sequence may also be important.<br>
+And in the array, you only give the value and the key is given automatically. And each value in the array is called an index.
+```js
+let myArray = [] // This is an array
+
+// new array
+let myArray1 = [2, 'd', 'john', 'jacob']
+// How to show array index
+console.log(myArray1[2]) // john
+
+// More complex by using object
+let myArray2 = [2, 'd', 'john', {item4: 3}]
+console.log(myArray2[3].item4) // 3
+```
+
+**The use of Array**:
+1. When keys are not needed.
+2. When the number of data is not known and may increase or decrease in the future.
+3. The advantage of arrays is that they are easier to research and interpret.
