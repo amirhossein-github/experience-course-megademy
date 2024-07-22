@@ -1,6 +1,6 @@
 # Object School
 **Date-Start**: 1403,04,24 - 2024,07,14<br>
-**Date-End**:<br>
+**Date-End**: 1403,04,31 - 2024,07,21<br>
 
 ## About Exercise
 To do this exercise, you need to create an object named school that includes:<br>
