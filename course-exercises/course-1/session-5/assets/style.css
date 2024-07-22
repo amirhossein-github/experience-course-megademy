@@ -1,0 +1,152 @@
+* {
+    margin: 0; padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #ecf0f3;
+
+    > div#tree {
+        /* Container */
+        width: 500px;
+        margin: 0 auto;
+
+        /* If hover: Show Subset */
+        li.tree:hover {
+            background-color: #F8E8EE;
+            padding-bottom: 20px;
+            > ul.tree {
+                display: flex;
+            }
+        }
+
+        /* Total Style */
+        ul.tree {
+            list-style-type: none;
+            padding-left: 0;
+            display: none;
+            align-items: center;
+            justify-content: space-around;
+
+            > li.tree {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                transition: all 1s; 
+                border-radius: 50%;
+                box-shadow:-3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+                
+                > a.tree {
+                    transition: all 1s; 
+                    text-decoration: none;
+                    color: black;
+                }
+            }
+        }
+
+        /* The size of the environment of emojis and emojis*/
+        > ul.tree > li.tree {
+            width: 120px;
+            height: 120px;
+            > a.tree { font-size: 45px; }
+            ul.tree > li.tree {
+                width: 80px;
+                height: 80px;
+                > a.tree { font-size: 30px; }
+                ul.tree > li.tree {
+                    width: 40px;
+                    height: 40px;
+                    > a.tree { font-size: 10px; }
+                }
+            }
+        }
+
+        /* Position of items and size of area */
+        > ul.tree {
+            display: flex;
+            justify-content: center;
+            position: relative;
+            > li.tree > ul.tree {
+                width: 400px;
+                height: 100px;
+                position: absolute;
+                top: 110px;
+                > li.tree > ul.tree {
+                    width: 200px;
+                    height: 100px;
+                    position: absolute;
+                    top: 90px;
+                }
+            }
+        }
+    }
+
+    /* If hover: Show Subset - Section Student-Card*/ 
+    li.card:hover {
+        > ul.studentCard {
+            display: flex;
+        }
+    }
+
+    ul.studentCard {
+        list-style-type: none;
+        padding-left: 0;
+        width: 270px;
+        box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+        position: absolute;
+        top: 90px;
+        background: #ecf0f3;
+        padding: 10px;
+        border-radius: 10px;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+        > li#imgOutArea{
+          background: #ecf0f3;
+          box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+          height: 50px;
+          width: 50px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        
+          > div#imgInArea{
+            height: calc(100% - 10px);
+            width: calc(100% - 10px);
+            border-radius: 50%;
+        
+            > img{
+              height: 100%;
+              width: 100%;
+              border-radius: 50%;
+              object-fit: cover;
+            }
+          }
+        }
+        > .about{
+          color: #44476a;
+          font-weight: 400;
+          font-size: 10px;
+        }
+        
+        > .name{
+          font-size: 23px;
+          font-weight: 500;
+          color: #31344b;
+          margin: 10px 0 5px 0;
+        }
+    }
+
+    > div#githubLog {
+        > a > img {
+            margin: 1%;
+            width: 35px;
+            height: 35px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 50%;
+        }
+    }
+}
