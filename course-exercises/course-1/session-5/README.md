@@ -2,6 +2,9 @@
 **Date-Start**: 1403,04,31 - 2024,07,21<br>
 **Date-End**: <br>
 
+## About Exercise
+Optimize the previous exercise by using the materials we learned in the fifth session (Arrays) as well as the new tips.
+
 ## Reference - Things that I got help from to make the project
 
 ### Card Profile Structure
