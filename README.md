@@ -31,6 +31,7 @@
 
 #### Course Exercises
 - [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object School
+- [Session 5](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) Object School - With Array
 
 ## Course 2
 Coming soon.
