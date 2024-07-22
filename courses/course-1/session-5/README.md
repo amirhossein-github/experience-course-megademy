@@ -68,3 +68,6 @@ console.log(myArray2[3].item4) // 3
 1. When keys are not needed.
 2. When the number of data is not known and may increase or decrease in the future.
 3. The advantage of arrays is that they are easier to research and interpret.
+
+## Exercise
+According to the learnings of this session, work on the exercise of the previous session with the name of [School Object](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) and optimize it. (Using Array)
