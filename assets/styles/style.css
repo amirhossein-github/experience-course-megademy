@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: #F5F7F8; 
 
+    /* Div (1): Section Logo */
     div#logo {
         margin: 3% auto;
         display: flex;
@@ -20,10 +21,12 @@ body {
         }
     }
 
+    /* Div (1): Section Course List */
     div#courses {
         width: 500px;
         margin: 1% auto;
 
+        /* Total Style */
         li:hover > ul {
             display: block;
         }
@@ -37,6 +40,7 @@ body {
             color: black;
         }
     
+        /* Course 1, Course 2, Course 3 */
         > ul {
             display: flex;
             justify-content: space-around;
@@ -60,6 +64,7 @@ body {
                     font-size: 20px;
                 }
     
+                /* Container of Sessions */
                 > ul {
                     display: none;
                     position: absolute;
@@ -81,6 +86,7 @@ body {
                             }
                         }
 
+                        /* Each Session */
                         > ul {
                             display: none;
 
