@@ -1,9 +1,10 @@
 {
     "cSpell.words": [
         "Amirhossein",
+        "concat",
+        "dirxml",
         "Heydari",
         "Khateri",
-        "dirxml",
         "typeof"
     ]
 }
@@ -20,4 +21,5 @@
     // Syntax
     dirxml
     typeof
+    concat
 */
