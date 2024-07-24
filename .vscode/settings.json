@@ -4,7 +4,9 @@
         "concat",
         "dirxml",
         "Heydari",
+        "Kargar",
         "Khateri",
+        "Majid",
         "typeof"
     ]
 }
@@ -17,6 +19,8 @@
     Amirhossein
     Heydari
     Khateri
+    Majid
+    Kargar
 
     // Syntax
     dirxml
