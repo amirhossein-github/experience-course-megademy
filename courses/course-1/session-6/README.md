@@ -34,3 +34,45 @@ let classes = [
     }
 ]
 ```
+
+## Team Work in Class
+**Challenge**: Select 'hehehe:D'
+```js
+let myArray2 = [22, 11, 'jj', 66, 'md', [], [[1, 2, [3, {key2: 'hehehe:D'}]]]]
+
+// Answer
+console.log(myArray2[6][0][2][1].key2)
+```
+
+**Why**: Let's solve it step by step:<br>
+```js
+// First Array
+[22, 11, 'jj', 66, 'md', [], [...]] ---> [6]
+ 0   1    2    3    4     5    6
+
+// Second Array
+[...] ---> [0]
+  0
+
+// Third Array
+[1, 2, [...]] ---> [2]
+ 0  1    2
+
+// Fourth Array
+[3, {...}] ---> [1]
+ 0    1
+
+// And Object
+{key2: ...} ---> .key2
+ key
+
+// Finally
+[6][0][2][1].key2
+```
+
+**Challenge**: Object - School, Add the comments section to it. `teacherReview: ...`
+- Comment
+- Teachers
+- Semester
+
+We lost the challenge, but I will solve it at home.
