@@ -76,3 +76,9 @@ console.log(myArray2[6][0][2][1].key2)
 - Semester
 
 We lost the challenge, but I will solve it at home.
+
+## Algorithm and Flowchart Were Mentioned
+The scribbles of algorithm programmers and their flowcharts. <br>
+Google Search: `flowchart online`<br>
+`https://app.diagrams.net/`<br>
+**Figma App**
