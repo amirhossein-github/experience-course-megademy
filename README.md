@@ -9,7 +9,7 @@
 - [Session 2](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-2/README.md) Prerequisites for JavaScript During the Course.
 - [Session 3](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-3/README.md) Basic Topics of Programming and Some  Terms of GitHub and a Little JavaScript.
 - [Session 4](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-4/README.md) Conventional Commitment for Github, Variables and Data Types and Some of Their Methods in JavaScript.
-- [Session 5](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-5/README.md) Arrays and review exercises with new tips.
+- [Session 5](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-5/README.md) Arrays and Review exercises With New Tips.
 - [Session 6](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-6/README.md) Review Exercises, Team Work in Class, Algorithm and Flowchart
 
 #### Course Members
@@ -39,3 +39,8 @@ Coming soon.
 
 ## Course 3
 Coming soon.
+
+
+```bash
+
+```
