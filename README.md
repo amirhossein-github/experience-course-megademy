@@ -3,8 +3,8 @@
 **Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
 **Teacher-Assistant**: [Majid Kargar](https://majidkargar.ir/)<br>
 **Date-Start**: 1403-04-12, 2024-07-02<br>
-**Challenge**: [🏁](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/README.md) (Out of course)
-**Side-Projects**: [🗂](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/README.md)(Out of course)
+**Challenge**: [🏁](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/README.md) (Out of course)<br>
+**Side-Projects**: [🗂](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/README.md)(Out of course)<br>
 
 ## Course 1
 #### Course Sessions
