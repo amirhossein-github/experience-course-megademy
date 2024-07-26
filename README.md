@@ -4,6 +4,8 @@
 **Teacher-Assistant**: [Majid Kargar](https://majidkargar.ir/)<br>
 **Date-Start**: 1403-04-12, 2024-07-02<br>
 **Challenge**: [🏁](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/README.md) (Out of course)
+**Side-Projects**: [🗂](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/README.md)(Out of course)
+
 ## Course 1
 #### Course Sessions
 - [Session 1](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-1/README.md) - Overview.
