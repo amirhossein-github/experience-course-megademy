@@ -7,8 +7,17 @@ classes > students : []
 
 each students include
 list of student [{1}, {2}, {3}]
+
+each student include:
+name, family, phone, address, GAD, teacherReviews
 */
 const school = {
+    schoolInfo: {
+        name: 'Shahid Bahonar',
+        numberOfClasses: 15,
+        numberOfEmployees: 30,
+        numberOfTeachers: 3
+    },
     classes: [
         {
             classInfo: {
