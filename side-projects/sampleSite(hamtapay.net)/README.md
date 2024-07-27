@@ -1,1 +1,1 @@
-#
+# Build a sample site from: https://hamtapay.net
