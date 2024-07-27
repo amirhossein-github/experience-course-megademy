@@ -9,5 +9,5 @@ Optimize the previous exercise by using the materials we learned in the fifth se
 🟢 **Object Info**: How to prepare an info section for an object in the necessary time.<br><br>
 
 ## Reference - Things that I got help from to make the project
-The content of this project is copied from the exercise of the 4th session. Go to the link below to see the resources.<br>
+The content of this project is copied from the exercise of the 4th session. Go to the link below in section **References** to see the resources.<br>
 [Session 4 - References](https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4#reference---things-that-i-got-help-from-to-make-the-project)
