@@ -1,6 +1,6 @@
 # Object School - With Array
 **Date-Start**: 1403,04,31 - 2024,07,21<br>
-**Date-End**: 1403,04,31 - 2024,07,21<br>
+**Date-End**: 1403,05,06 - 2024,07,28<br>
 
 ## About Exercise
 Optimize the previous exercise by using the materials we learned in the fifth session (Arrays) as well as the new tips.
