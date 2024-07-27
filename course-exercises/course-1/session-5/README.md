@@ -1,11 +1,12 @@
 # Object School - With Array
 **Date-Start**: 1403,04,31 - 2024,07,21<br>
-**Date-End**: <br>
+**Date-End**: 1403,04,31 - 2024,07,21<br>
 
 ## About Exercise
 Optimize the previous exercise by using the materials we learned in the fifth session (Arrays) as well as the new tips.
 
 ## Reference - Things that I got help from to make the project
+🟢 **Object Info**: How to prepare an info section for an object in the necessary time.<br><br>
 
 ### Card Profile Structure
 <a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="100" height="100"/></a><br>
