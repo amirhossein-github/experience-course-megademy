@@ -5,9 +5,10 @@
 ## About Exercise
 For this exercise, try to use **'ID'** and **'info'** according to the points that were said in the class, and give each knowledge a **comment section** that includes **'Comment'**, **'Teachers'**, **'Semester'**.
 
-## Reference - Things that I got help from to make the project
+## My Personal Experience
 **Undefined ❓**
 
+## Reference - Things that I got help from to make the project
 ### Card Profile Structure
 <a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank"><img src="./reference/css-card-profile/css-card-profile.png" alt="github" width="100" height="100"/></a><br>
 [<a href="https://github.com/amirhossein-github/teacher-khateri/tree/main/course-exercises/course-1/session-4/reference/css-card-profile" target="_blank">Code</a>][[Ref](https://www.codingnepalweb.com/neumorphism-profile-card-html-css/)]
