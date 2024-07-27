@@ -1,9 +1,9 @@
-# Undefined ❓
+# Object School - With Comment Section
 **Date-Start**: 1403,05,02 - 2024,07,23<br>
 **Date-End**: <br>
 
 ## About Exercise
-**Undefined ❓**
+For this exercise, try to use **'ID'** and **'info'** according to the points that were said in the class, and give each knowledge a **comment section** that includes **'Comment'**, **'Teachers'**, **'Semester'**.
 
 ## Reference - Things that I got help from to make the project
 **Undefined ❓**
