@@ -10,4 +10,4 @@ Optimize the previous exercise by using the materials we learned in the fifth se
 
 ## Reference - Things that I got help from to make the project
 The content of this project is copied from the exercise of the 4th session. Go to the link below in section **References** to see the resources.<br>
-[Session 4 - References](https://github.com/amirhossein-github/teacher-khateri/tree/main/courses/course-1/session-4/exercise/README.md#reference---things-that-i-got-help-from-to-make-the-project)
+[Session 4 - References](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exercise/README.md#reference---things-that-i-got-help-from-to-make-the-project)
