@@ -3,7 +3,7 @@
 **Side-Projects**: [🗂](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/README.md) - (Out of course)<br>
 
 ## Course 1
-### Course Description
+#### Course Description
 **Teacher**: [Amirhossein Khateri](https://ir.linkedin.com/in/amirhosseinkhateri)<br>
 **Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
 **Teacher-Assistant**: [Majid Kargar](https://github.com/fulcain)<br>
