@@ -37,9 +37,9 @@
 <a href="https://github.com/arashliravi">![Static Badge](https://img.shields.io/badge/%40arashliravi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Farashliravi)</a>
 
 #### Course Exercises
-- [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-4/README.md) - Object School
-- [Session 5](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-5/README.md) - Object School - With Array
-- [Session 6](https://github.com/amirhossein-github/teacher-khateri/blob/main/course-exercises/course-1/session-6/README.md) - Object School - With Comment Section
+- [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exercise/README.md) - Object School
+- [Session 5](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-5/exercise/README.md) - Object School - With Array
+- [Session 6](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-6/exercise/README.md) - Object School - With Comment Section
 
 ## Course 2
 Coming soon.
