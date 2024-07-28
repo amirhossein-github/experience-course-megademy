@@ -6,7 +6,7 @@
 ### Course Description
 **Teacher**: [Amirhossein Khateri](https://ir.linkedin.com/in/amirhosseinkhateri)<br>
 **Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
-**Teacher-Assistant**: [Majid Kargar](https://majidkargar.ir/)<br>
+**Teacher-Assistant**: [Majid Kargar](https://github.com/fulcain)<br>
 **Date-Start**: 1403-04-12, 2024-07-02<br>
 **Date-End**: **Undefined**<br>
 
