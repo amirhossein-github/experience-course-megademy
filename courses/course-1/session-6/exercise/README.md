@@ -6,7 +6,7 @@
 For this exercise, try to use **'ID'** and **'info'** according to the points that were said in the class, and give each knowledge a **comment section** that includes **'Comment'**, **'Teachers'**, **'Semester'**.
 
 ## My Personal Experience
-**Undefined ❓**
+Noting to say
 
 ## Reference - Things that I got help from to make the project
 The content of this project is copied from the exercise of the 4th session. Go to the link below in section **References** to see the resources.<br>
