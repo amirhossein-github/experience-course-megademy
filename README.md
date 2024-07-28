@@ -1,12 +1,15 @@
 # Official JavaScript Courses.
-**Teacher**: [Amirhossein Khateri](https://ir.linkedin.com/in/amirhosseinkhateri)<br>
-**Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
-**Teacher-Assistant**: [Majid Kargar](https://majidkargar.ir/)<br>
-**Date-Start**: 1403-04-12, 2024-07-02<br>
 **Challenge**: [🏁](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/README.md) - (Out of course)<br>
 **Side-Projects**: [🗂](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/README.md) - (Out of course)<br>
 
 ## Course 1
+### Course Description
+**Teacher**: [Amirhossein Khateri](https://ir.linkedin.com/in/amirhosseinkhateri)<br>
+**Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
+**Teacher-Assistant**: [Majid Kargar](https://majidkargar.ir/)<br>
+**Date-Start**: 1403-04-12, 2024-07-02<br>
+**Date-End**: **Undefined**<br>
+
 #### Course Sessions
 - [Session 1](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-1/README.md) - Overview.
 - [Session 2](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-2/README.md) - Prerequisites for JavaScript During the Course.
