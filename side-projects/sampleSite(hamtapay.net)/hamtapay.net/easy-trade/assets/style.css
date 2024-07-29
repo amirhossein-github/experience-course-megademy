@@ -38,6 +38,7 @@ body {
             > div.container {
                 width: 500px;
                 margin: 80px auto;
+                margin-bottom: 0px;
             
                 /* Style Section Buy or Sell */
                 > div#type {
@@ -230,8 +231,32 @@ body {
             }
         }
 
+        /* Style Section Description */
         > section#description {
-            background-color: aqua;
+            div.container {
+                width: 500px;
+                margin: 40px auto;
+                
+                > div {
+                    padding: 10px;
+                    text-align: right;
+                    border-radius: 12px;
+                    background-color: rgb(25,34,49);
+
+                    > ul {
+                        list-style-type: none;
+
+                        > li {
+                            > p {
+                                font-size: 10px;
+                                color: rgb(118,125,138);
+                                margin: 7px 0;
+                            }
+                        }
+                    }
+                }
+
+            }
         }
     }
 }
