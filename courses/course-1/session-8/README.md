@@ -164,3 +164,30 @@ if ( false ) {
 
 > [!TIP]
 > Use `===` instead of `==` in the IF statement as much as you can. One of the reasons is that the process is **faster**.
+
+## Exercise
+
+1. [According to the above example](#Number-Three), find out why the answer of a logical operator that must be true or false became a number?<br>
+
+2. Research about String methods:
+    - length
+    - concat
+    - uppercase
+    - lowercase
+    - indexOf
+    - includes
+    - substring
+    - slice
+    - split
+    - replace
+    - repeat
+<br>
+3. Calculate and display the four basic mathematical operations.<br>
+```js
+let calc, number1, number2
+```
+
+4. If the targeted text was in the string, declare that it was, otherwise, say that it was not.
+```js
+let string, target
+```
