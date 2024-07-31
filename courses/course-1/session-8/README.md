@@ -45,3 +45,95 @@ a /= 10
 
 // ETC ...
 ```
+## Logical Operators
+
+### AND
+| A | B | Output |
+| ------------- | ------------- | ------------- |
+| True 🟢 | True 🟢 | True 🟢 |
+| True 🟢 | False 🔴 | False 🔴 |
+| False 🔴 | True 🟢 | False 🔴 |
+| False 🔴 | False 🔴 | False 🔴 |
+
+
+### OR
+| A | B | Output |
+| ------------- | ------------- | ------------- |
+| True 🟢 | True 🟢 | True 🟢 |
+| True 🟢 | False 🔴 | True 🟢 |
+| False 🔴 | True 🟢 | True 🟢 |
+| False 🔴 | False 🔴 | False 🔴 |
+
+### Example
+
+#### Number One
+**False** `&&` **True** `&&` **False**? 🔴
+
+#### Number Two
+**True** `||` **True** `&&` **False** `&&` **True**? 🟢
+
+> [!TIP]
+> Pay attention to math priorities.
+
+```js
+1. ()
+2. .
+3. x++, x--, ++x, --x
+4. !, ~
+5. +x, -x
+6. **, *, /, %
+7. +, -
+8. <<, >>, >>>
+9. <, <=, >, >=
+10. ==, !=, ===, !==
+11. &, ^, |, &&, ||, ??
+12. =, +=, -=, **=, *=, /=, %=
+13. <<=, >>=, >>>=
+14. &=, ^=, |=, &&=, ||=, ??=
+15. X ? y : z
+16. x => y
+```
+#### Number Three
+```js
+let g = 2, b = '2', c = 3, d = 2, e = 3
+
+console.log(
+    & + 2 < 3 && b + 2 || c && d - 1 * e
+)
+```
+**Zero (0)** **2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **1** `*` **3**?
+
+**One (1)** **`*`**: `-1 * 3 = -3`<br>
+**2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `+` <span style="background-color: #DEF9C4 ">- **1** * **3**</span><br>
+**2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** <span style="background-color: #DEF9C4 ">- 3</span>
+
+**Two (2)** **`+`**: `2 + 2 = 4`<br>
+<span style="background-color: #DEF9C4 ">2 + 2</span> `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **3**<br>
+<span style="background-color: #DEF9C4 ">4</span> `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **3**<br>
+
+**Three (3)** **`+`**: `'2' + 2 = '22'`<br>
+**4** `<` **3** `&&` <span style="background-color: #DEF9C4 ">'2' + 2</span> `||` **3** `&&` **2** `-` **3**<br>
+**4** `<` **3** `&&` <span style="background-color: #DEF9C4 ">'22'</span> `||` **3** `&&` **2** `-` **3**<br>
+
+**Four (4)** **`-`**: `-3 + 2 = -1`<br>
+**4** `<` **3** `&&` **'22'** `||` **3** `&&` <span style="background-color: #DEF9C4 ">2 - 3</span><br>
+**4** `<` **3** `&&` **'22'** `||` **3** `&&` <span style="background-color: #DEF9C4 ">-1</span><br>
+
+**Five (5)** **`<`**: `4 < 3 = false`<br>
+<span style="background-color: #DEF9C4 ">4 < 3</span> `&&` **'22'** `||` **3** `&&` **-1**<br>
+<span style="background-color: #DEF9C4 ">false</span> `&&` **'22'** `||` **3** `&&` **-1**<br>
+
+
+**Six (6)** **`&&`**: `false && '22' = false`<br>
+<span style="background-color: #DEF9C4 ">false && '22'</span> `||` **3** `&&` **-1**<br>
+<span style="background-color: #DEF9C4 ">false</span> `||` **3** `&&` **-1**<br>
+
+
+**Seven (7)** **`&&`**: `3 && -1 = -1`<br>
+**false** `||` <span style="background-color: #DEF9C4 ">3 && -1</span><br>
+**false** `||` <span style="background-color: #DEF9C4 ">-1</span><br>
+
+
+**Eight (8)** **`||`**: `false || -1 = -1`<br>
+<span style="background-color: #DEF9C4 ">false || -1</span><br>
+<span style="background-color: #DEF9C4 ">-1</span><br>
