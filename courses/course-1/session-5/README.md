@@ -70,4 +70,4 @@ console.log(myArray2[3].item4) // 3
 3. The advantage of arrays is that they are easier to research and interpret.
 
 ## Exercise
-According to the learnings of this session, work on the exercise of the previous session with the name of [School Object](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exsercise/README.md) and optimize it. (Using Array)
+According to the learnings of this session, work on the exercise of the previous session with the name of [School Object](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exercise/README.md) and optimize it. (Using Array)
