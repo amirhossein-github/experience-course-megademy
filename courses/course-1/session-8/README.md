@@ -137,3 +137,30 @@ console.log(
 **Eight (8)** **`||`**: `false || -1 = -1`<br>
 <span style="background-color: #DEF9C4 ">false || -1</span><br>
 <span style="background-color: #DEF9C4 ">-1</span><br>
+
+## If and Else and Else If
+```js
+// 1
+if ( true ) {
+    console.log('ok')
+}
+
+// 2
+if ( false ) {
+    console.log('ok')
+} else {
+    console.log('!ok')
+}
+
+// 3
+if ( false ) {
+    console.clear()
+} else if ( 0 == 1 ) {
+    console.log('ok')
+} else {
+    console.log('noo')
+}
+```
+
+> [!TIP]
+> Use `===` instead of `==` in the IF statement as much as you can. One of the reasons is that the process is **faster**.
