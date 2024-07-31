@@ -3,6 +3,7 @@
         "Amirhossein",
         "concat",
         "dirxml",
+        "Edabit",
         "Heydari",
         "Kargar",
         "Khateri",
@@ -13,15 +14,18 @@
 }
 
 /*
-    // Name
+    # Name - Person
     Amirhossein
     Heydari
     Khateri
     Majid
     Kargar
     Pourmomen
+    
+    # Name - Thing
+    Edabit
 
-    // Syntax
+    # Syntax
     dirxml
     typeof
     concat
