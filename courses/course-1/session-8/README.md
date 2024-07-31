@@ -130,8 +130,8 @@ console.log(
 
 
 **Seven (7)** `&&`: 3 && -1 = -1<br>
-false || **`3 && -1**`<br>
-false || **-`1**`<br>
+false || **`3 && -1`**<br>
+false || **`-1`**<br>
 
 
 **Eight (8)** `||`: false || -1 = -1<br>
@@ -182,6 +182,7 @@ if ( false ) {
     - replace
     - repeat
 <br>
+
 3. Calculate and display the four basic mathematical operations.<br>
 ```js
 let calc, number1, number2
