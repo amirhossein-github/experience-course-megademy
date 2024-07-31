@@ -17,3 +17,31 @@
 
 > [!TIP]
 > To simplify difficult and complex problems, compare and simplify them with your daily problems.
+
+## Assignment
+
+```js
+let a = 100
+
+// +=
+a = a + 10 
+// OR
+a += 10
+
+// -=
+a = a - 10 
+// OR
+a -= 10
+
+// *=
+a = a * 10 
+// OR
+a *= 10
+
+// /=
+a = a / 10 
+// OR
+a /= 10
+
+// ETC ...
+```
