@@ -101,42 +101,42 @@ console.log(
     & + 2 < 3 && b + 2 || c && d - 1 * e
 )
 ```
-**Zero (0)** **2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **1** `*` **3**?
+**Zero (0)** `2 + 2 < 3 && '2' + 2 || 3 && 2 - 1 * 3`?
 
-**One (1)** **`*`**: `-1 * 3 = -3`<br>
-**2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `+` <span style="background-color: #DEF9C4 ">- **1** * **3**</span><br>
-**2** `+` **2** `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** <span style="background-color: #DEF9C4 ">- 3</span>
+**One (1)** `*`: -1 * 3 = -3<br>
+**2** + 2 < 3 && '2' + 2 || 3 && 2 + **`- 1 * 3`**<br>
+**2** + 2 < 3 && '2' + 2 || 3 && 2 **`- 3`**
 
-**Two (2)** **`+`**: `2 + 2 = 4`<br>
-<span style="background-color: #DEF9C4 ">2 + 2</span> `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **3**<br>
-<span style="background-color: #DEF9C4 ">4</span> `<` **3** `&&` **'2'** `+` **2** `||` **3** `&&` **2** `-` **3**<br>
+**Two (2)** `+`: 2 + 2 = 4<br>
+**`2 + 2`** < 3 && '2' + 2 || 3 && 2 - 3<br>
+**`4`** < 3 && '2' + 2 || 3 && 2 - 3<br>
 
-**Three (3)** **`+`**: `'2' + 2 = '22'`<br>
-**4** `<` **3** `&&` <span style="background-color: #DEF9C4 ">'2' + 2</span> `||` **3** `&&` **2** `-` **3**<br>
-**4** `<` **3** `&&` <span style="background-color: #DEF9C4 ">'22'</span> `||` **3** `&&` **2** `-` **3**<br>
+**Three (3)** `+`: '2' + 2 = '22'<br>
+4 < 3 && **`'2' + 2`** || 3 && 2 - 3<br>
+4 < 3 && **`'22'`** || 3 && 2 - 3<br>
 
-**Four (4)** **`-`**: `-3 + 2 = -1`<br>
-**4** `<` **3** `&&` **'22'** `||` **3** `&&` <span style="background-color: #DEF9C4 ">2 - 3</span><br>
-**4** `<` **3** `&&` **'22'** `||` **3** `&&` <span style="background-color: #DEF9C4 ">-1</span><br>
+**Four (4)** `-`: -3 + 2 = -1<br>
+4 < 3 && '22' || 3 && **`2 - 3`**<br>
+4 < 3 && '22' || 3 && **`-1`**<br>
 
-**Five (5)** **`<`**: `4 < 3 = false`<br>
-<span style="background-color: #DEF9C4 ">4 < 3</span> `&&` **'22'** `||` **3** `&&` **-1**<br>
-<span style="background-color: #DEF9C4 ">false</span> `&&` **'22'** `||` **3** `&&` **-1**<br>
-
-
-**Six (6)** **`&&`**: `false && '22' = false`<br>
-<span style="background-color: #DEF9C4 ">false && '22'</span> `||` **3** `&&` **-1**<br>
-<span style="background-color: #DEF9C4 ">false</span> `||` **3** `&&` **-1**<br>
+**Five (5)** `<`: 4 < 3 = false<br>
+**`4 < 3`** && '22' || 3 && -1<br>
+**`false`** && '22' || 3 && -1<br>
 
 
-**Seven (7)** **`&&`**: `3 && -1 = -1`<br>
-**false** `||` <span style="background-color: #DEF9C4 ">3 && -1</span><br>
-**false** `||` <span style="background-color: #DEF9C4 ">-1</span><br>
+**Six (6)** `&&`: false && '22' = false<br>
+**`false && '22'`** || 3 && -1<br>
+**`false`** || 3 && -1<br>
 
 
-**Eight (8)** **`||`**: `false || -1 = -1`<br>
-<span style="background-color: #DEF9C4 ">false || -1</span><br>
-<span style="background-color: #DEF9C4 ">-1</span><br>
+**Seven (7)** `&&`: 3 && -1 = -1<br>
+false || **`3 && -1**`<br>
+false || **-`1**`<br>
+
+
+**Eight (8)** `||`: false || -1 = -1<br>
+**`false || -1`**<br>
+**`-1`**<br>
 
 ## If and Else and Else If
 ```js
