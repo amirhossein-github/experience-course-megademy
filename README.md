@@ -42,6 +42,7 @@
 - [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exercise/README.md) - Object School
 - [Session 5](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-5/exercise/README.md) - Object School - With Array
 - [Session 6](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-6/exercise/README.md) - Object School - With Comment Section
+- [Session 8](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-8/exercise/README.md) - Exercise in Relation to Concepts: String Methods, If and Else, Logical Operators
 
 ## Course 2
 Coming soon.
