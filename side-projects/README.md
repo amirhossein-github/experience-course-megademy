@@ -14,4 +14,4 @@ My exercises and side projects in the JavaScript course.
 **Leader**: [AliPourmomen](https://pythonostad.ir/teacher/alipourmomen/)<br>
 **Date-Start**: 1403,05,12 - 2024,08,02<br>
 **Date-End**: 1403,05,12 - 2024,08,02<br>
-**Project**: [Link](https://amirhossein-github.github.io/teacher-khateri/side-projects/numericPuzzle/README.md)
+**Project**: [Link](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/numericPuzzle/README.md)
