@@ -24,7 +24,7 @@ string = '...HARCHI...', target = 'x'
 
 // Your code
 console.group("Section Text Searcher")
-// 1) Simple If and Else statment
+// 1) Simple If and Else statement
 if (string.includes(target)) {
     console.log(`The desired text (${target}) exist.`)
 } else {
