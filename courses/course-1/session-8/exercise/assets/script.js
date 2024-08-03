@@ -40,4 +40,6 @@ console.log(`The desired text (${target}) ` + String((string.includes(target)) ?
 console.groupEnd()
 
 //----------------------------------------------------------------------------------------------------
+
+console.warn("End")
 // flag{aGVoZWhlaCA6KQ==}
