@@ -1,4 +1,7 @@
-# Solve a Numeric Puzzle: 9 9 9 = 1
+# Version 1 (Solve a Numeric Puzzle: 9 9 9 = 1)
+**Date-Start**: 1403,05,12 - 2024,08,02<br>
+**Date-End**: 1403,05,13 - 2024,08,03<br>
+**Live**: [🖥️](https://amirhossein-github.github.io/teacher-khateri/side-projects/numericPuzzle/version/v1/)<br>
 **Description**: To solve this puzzle, you have to put 3 numbers 9 between the mathematical operators so that the final answer is one.<br>
 This project was supposed to be solved manually and like a simple puzzle, although some friends used artificial intelligence to solve the challenge, but it occurred to me to solve this puzzle by using a programming language, whether Python or JavaScript.
 ```js
