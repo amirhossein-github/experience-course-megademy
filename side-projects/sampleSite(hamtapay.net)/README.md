@@ -1,4 +1,9 @@
 # Build a sample site from: https://hamtapay.net
+**Leader**: [AliPourmomen](https://pythonostad.ir/teacher/alipourmomen/)<br>
+**Date-Start**: 1403,03,29 - 2024,06,18<br>
+**Date-End**: **Undefined ❓**<br>
+**Project**: [🎲](https://amirhossein-github.github.io/teacher-khateri/side-projects/sampleSite(hamtapay.net)/README.md)<br>
+**Live**: [🖥️]()
 
 ## About Project : Section '/easy-trade/'
 
