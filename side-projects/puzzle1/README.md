@@ -1,0 +1,10 @@
+# Symbol Puzzle Between Numbers
+**Leader**: [AliPourmomen](https://pythonostad.ir/teacher/alipourmomen/)<br>
+**Date-Start**: 1403,05,12 - 2024,08,02<br>
+**Date-End**: **Undefined ❓**<br>
+**Project**: [🎲](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v2/README.md)<br>
+**Live**: [🖥️](https://amirhossein-github.github.io/teacher-khateri/side-projects/puzzle1/version/v2/index.html)
+**Description**: In this puzzle, you must try to perform mathematical operations between the numbers given to you in order to reach the result that you are told.
+
+- [Version One (v1)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v1/README.md)
+- [Version Two (v2)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v2/README.md)

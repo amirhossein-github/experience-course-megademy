@@ -1,7 +1,7 @@
 # Version 2 (Solve a Numeric Puzzle: 0 0 0 = 6)
 **Date-Start**: 1403,05,13 - 2024,08,03<br>
 **Date-End**: 1403,05,14 - 2024,08,04<br>
-**Live**: [🖥️](https://amirhossein-github.github.io/teacher-khateri/side-projects/numericPuzzle/version/v2/index.html)<br>
+**Live**: [🖥️](https://amirhossein-github.github.io/teacher-khateri/side-projects/puzzle1/version/v2/index.html)<br>
 **Description**: In this version, I started from the beginning and designed the two-number mode of this puzzle, that is: **`X1 (Math Operation) X2`**. In this section, I added more operations and made the necessary preparations for the three-digit mode.
 
 - 🟢 This version supports the following math operations:
