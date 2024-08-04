@@ -15,3 +15,7 @@
 
 - 🔴 The output of the program is very large and makes it difficult to read.
 - 🔴 It has not been fully tested and may have calculation errors in certain cases.
+
+## Visual Report
+**After many and useless attempts to guess all the states, I tried to solve this problem with a new method.**<br>
+<a href="./assets/images/whiteboard.jpg" ><img src="./assets/images/whiteboard.png" alt="" width="854" height="480"/></a>
