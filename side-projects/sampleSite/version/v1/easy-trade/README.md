@@ -1,4 +1,4 @@
-## About Project : Section '/easy-trade/'
+## About Project
 
 ### Code-Sketch
 **V1**: I spent time and designed the code-sketch of this section. It was very hard but it will be worth it. [[Link](https://github.com/amirhossein-github/teacher-khateri/tree/main/side-projects/sampleSite/hamtapay.net/easy-trade/docs/code-sketch/v1/easy-trade.png)] - `1403,05,06 2024,07,27`<br><br>
