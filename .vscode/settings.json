@@ -1,32 +1,57 @@
 {
     "cSpell.words": [
+        // Name - Person
         "Amirhossein",
+        "Pourmomen",
+        "Heydari",
+        "Khateri",
+        "Kargar",
+        "Majid",
+        
+        // Name - Thing
+        "Edabit", // Challenge name
+        "hamtapay", // Website name
+        
+        // Syntax
         "concat",
         "dirxml",
-        "Edabit",
-        "Heydari",
-        "Kargar",
-        "Khateri",
-        "Majid",
-        "Pourmomen",
-        "typeof"
+        "typeof",
+
+        // Persion Language
+        "تومان",
+        "تبدیل",
+        "دیجیتال",
+        "ماشین",
+        "حساب",
+        "خرید",
+        "فروش",
+        "آسان",
+        "پرداخت",
+        "کنید",
+        "می",
+        "دریافت",
+        "کوین",
+        "قیمت",
+        "واحد",
+        "همین",
+        "حالا",
+        "میخرم",
+        "کارمزد",
+        "معامله",
+        "باشد",
+        "معاملات",
+        "بوده",
+        "بلافاصله",
+        "دارایی",
+        "دیجیتالی",
+        "لحاظ",
+        "برای",
+        "دسترسی",
+        "سرویس",
+        "فرایند",
+        "بایست",
+        "احراز",
+        "هویت",
+        "تکمیل",
     ]
 }
-
-/*
-    # Name - Person
-    Amirhossein
-    Heydari
-    Khateri
-    Majid
-    Kargar
-    Pourmomen
-    
-    # Name - Thing
-    Edabit
-
-    # Syntax
-    dirxml
-    typeof
-    concat
-*/
