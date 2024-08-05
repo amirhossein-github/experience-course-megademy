@@ -1,4 +1,4 @@
-# Build a Sample Site From: https://hamtapay.net
+# Build a Sample Site From: hamtapay.net
 **Leader**: [AliPourmomen](https://pythonostad.ir/teacher/alipourmomen/)<br>
 **Date-Start**: 1403,03,29 - 2024,06,18<br>
 **Date-End**: **Undefined ❓**<br>
