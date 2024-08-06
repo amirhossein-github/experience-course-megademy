@@ -91,7 +91,7 @@ const user4 = {
     age: 72
 }
 
-// mesali as khoroji funciton => "Ahmad Ghasemi is 22"
+// mesali as khoroji function => "Ahmad Ghasemi is 22"
 console.log(introductionTheUser(user1))
 console.log(introductionTheUser(user2))
 console.log(introductionTheUser(user3))
