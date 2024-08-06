@@ -1,6 +1,7 @@
 # Exercise in Relation to Concepts: String Methods, If and Else, Logical Operators
 **Date-Start**: 1403,05,11 - 2024,08,01<br>
 **Date-End**: 1403,05,16 - 2024,08,06<br>
+**Live**: [🖥️](https://amirhossein-github.github.io/teacher-khateri/courses/course-1/session-8/exercise/index.html)<br>
 
 ## About Exercise
 1. Why in the [class exercise](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-8/README.md#number-three) among the logical operators that the output answer should be `true` or `false`, we got the answer `-1`.
