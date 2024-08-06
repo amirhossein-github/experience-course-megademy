@@ -32,8 +32,3 @@ let string = '... Every Thing ...', target = 'Something'
 // Your code
 console.log(string)
 ```
-## My Personal Experience
-**Undefined ❓**
-
-## Reference - Things That I got Help From to Make the Project
-**Undefined ❓**
