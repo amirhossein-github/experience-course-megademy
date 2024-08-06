@@ -27,8 +27,8 @@ console.log(calc);
 4. Suppose we have stored a text in a variable named `string` and we have a text in another variable named `target`.
 Our goal is to write a script that tells us if the `target` value is present in the `string`.
 ```js
-// Search (vojod Darad Nadarad)
-let string = '...HARCHI...', target = 'x'
+// Search
+let string = '... Every Thing ...', target = 'Something'
 // Your code
 console.log(string)
 ```
