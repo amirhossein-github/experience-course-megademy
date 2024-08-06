@@ -8,6 +8,6 @@
 
 - [Version One (v1)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v1/README.md)
 - [Version Two (v2)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v2/README.md)
-- [Version Two (v3)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v3/README.md)
-- [Version Two (v4)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v4/README.md)
-- [Version Two (v5)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v5/README.md)
+- [Version Three (v3)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v3/README.md)
+- [Version Four (v4)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v4/README.md)
+- [Version Five (v5)](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v5/README.md)
