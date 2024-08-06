@@ -75,17 +75,17 @@ const user1 = {
     lastName: "Amiri",
     age: 10
 }
-const user1 = {
+const user2 = {
     name: "Admad",
     lastName: "Ghasemi",
     age: 22
 }
-const user1 = {
+const user3= {
     name: "Mohsen",
     lastName: "Ahmadi",
     age: 7
 }
-const user1 = {
+const user4 = {
     name: "Mina",
     lastName: "Mohseni",
     age: 72
