@@ -24,3 +24,45 @@
 - Places that are going to be repeated a lot and the structure is such that it is going to be used a lot.
 - If we want to repeat a process several times, we either have to write code continuously or we have to call the function of that part of the code.
 - For input form validation, if we call a method, it should not be just for that method, it should be a method that we should use whenever needed.
+
+#### Syntax
+```js
+// Function syntax
+function Name(parameter1, parameter2, ...) {
+    // Code
+}
+
+// Call the function
+Name(argument1, argument2, ...)
+```
+
+#### Example
+```js
+function nameJ(str1, num) {
+    console.log(st1)
+}
+
+name('Hi :)')
+```
+
+#### Return in Function
+```js
+
+function calc(num1, num2, operator){
+
+    if (operator === '+') {
+        return num1 + num2
+    } else if (operator === '-') {
+        return num1 - num2
+    } else if (operator === '*') {
+        return num1 * num2
+    } else if (operator === '/') {
+        return num1 / num2
+    } else {
+        console.log('Error')
+    }
+    
+}
+
+console.log(calc(5, 5, '/'))
+```
