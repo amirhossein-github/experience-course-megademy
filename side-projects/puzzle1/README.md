@@ -1,5 +1,4 @@
 # Symbol Puzzle Between Numbers
-**Leader**: [AliPourmomen](https://pythonostad.ir/teacher/alipourmomen/)<br>
 **Date-Start**: 1403,05,12 - 2024,08,02<br>
 **Date-End**: **Undefined ❓**<br>
 **Project**: [🎲](https://github.com/amirhossein-github/teacher-khateri/blob/main/side-projects/puzzle1/version/v5/README.md)<br>
