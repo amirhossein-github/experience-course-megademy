@@ -58,3 +58,32 @@ function introductionTheUser(userInfo) {
     return `${userInfo.name} ${userInfo.lastName} is ${userInfo.age}`
 
 }
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (2)
+
+/**
+ * This function returns the last character of the string you pass to it.
+ * @constructor
+ * @param {string} str - The string whose last character is supposed to be returned.
+ */
+function lastCharOfString(str) {
+
+    // Validation user input (1)
+    // First of all check our input is string or not. (A)
+    // If input is not an string
+    if (typeof str !== 'string') {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'string' (${str})`
+    }
+
+    // Get last character of string (2)
+    let result = str.charAt(str.length - 1)
+
+    // Check for empty result
+    if (result !== '') {
+        return result
+    } else {
+        return ':\\ Empty string, ناموسا'
+    }
+
+}
