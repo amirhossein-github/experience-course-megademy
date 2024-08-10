@@ -87,3 +87,52 @@ function lastCharOfString(str) {
     }
 
 }
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (3)
+
+/**
+ * This function returns the given string, regardless of whitespace, in proportion to the numerical value of 'numberOfCharacters'.
+ * @constructor
+ * @param {string} string - The string we need for changes.
+ * @param {number} numberOfCharacters - The number of characters to return.
+ */
+function stringWithoutWhiteSpace(string, numberOfCharacters) {
+
+    // Validation user input (1)
+    // First of all check our input is string or not. (A)
+    // If input is not an string.
+    if (typeof string !== 'string') {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'string' (${string})`
+    }
+
+    // Second, check for string length. (B)
+    if (string.length === 0) {
+        return ':\\ Empty string, ناموسا'
+    }
+
+    // Third, check for data type. (C)
+    if (typeof numberOfCharacters !== 'number') {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'number' (${numberOfCharacters})`
+    }
+    
+    // Remove all white-space
+    let stringWithoutSpace = string.split(" ").join("")
+    // Fourth, the input number is bigger that stringWithoutSpace length. (D)
+    if (numberOfCharacters > stringWithoutSpace.length) {
+        return `\x1b[31mError\x1b[0m: The entered number is greater than the given string size even in non-space mode. (${numberOfCharacters})`
+    }
+
+    // Fifth, the input number is less that 0. (E)
+    if (numberOfCharacters <= 0) {
+        return ':/ 0, -. گرفتی مارو'
+    }
+
+    // Sixth, if NaN. (F)
+    if (isNaN(numberOfCharacters)) {
+        return '\x1b[31mError\x1b[0m: The entered number not a number(NaN).'
+    }
+
+    return stringWithoutSpace.substr(0, numberOfCharacters);
+
+}
