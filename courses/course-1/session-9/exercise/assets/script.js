@@ -136,3 +136,34 @@ function stringWithoutWhiteSpace(string, numberOfCharacters) {
     return stringWithoutSpace.substr(0, numberOfCharacters);
 
 }
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (4)
+
+/**
+ * This function takes two arrays and merge them together and returns them in one array.
+ * @constructor
+ * @param {Array} array1 - The first array to merge.
+ * @param {Array} array2 - The second array to merge.
+ */
+function mergeTwoArray(array1, array2) {
+
+    // Validation user input (1)
+    // First of all check our input is array or not, and it is empty or not. (A)
+    if (!Array.isArray(array1)) {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'array' (${array1})`
+    } else if (array1.length === 0) {
+        return ':\\ Empty array, ناموسا'
+    }
+
+    // Second, check our second input is array or not, and it is empty or not. (B)
+    if (!Array.isArray(array2)) {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'array' (${array2})`
+    } else if (array2.length === 0) {
+        return ':\\ Empty array, ناموسا'
+    }
+     
+    // Return result
+    return array1.concat(array2)
+
+}
