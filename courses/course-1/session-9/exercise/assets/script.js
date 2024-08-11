@@ -167,3 +167,56 @@ function mergeTwoArray(array1, array2) {
     return array1.concat(array2)
 
 }
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (5)
+
+/**
+ * This function counts and returns the vowels of the given string.
+ * @constructor
+ * @param {string} str - The first array to merge.
+ */
+function countVowel(str) {
+
+    // Validation user input (1)
+    // First of all check our input is string or not. (A)
+    // If input is not an string.
+    if (typeof str !== 'string') {
+        return `\x1b[31mError\x1b[0m: Your argument is not 'string' (${str})`
+    }
+
+    // Second, check for string length. (B)
+    if (str.length === 0) {
+        return ':\\ Empty string, ناموسا'
+    }
+
+    // Way 1)
+    // let result = 0;
+    // for (let i = 0; i < str.length; i++) {
+    //     if (vowels.indexOf(str[i]) !== -1) {
+    //         result += 1;
+    //     }
+    // }
+
+    // Way 2)
+    let vowels = "aAeEiIoOuU";
+    result = str.split("").filter(
+        (character) => vowels.includes(character)
+    );
+
+    // Return result
+    return result.length;
+}
+
+// ----------------------------------------------------------------------------------------------------
+// Show details
+console.clear()
+console.warn(
+    '\n\n\n',
+    'Exercise (1): introductionTheUser()\n',
+    'Exercise (2): lastCharOfString()\n',
+    'Exercise (3): stringWithoutWhiteSpace()\n',
+    'Exercise (4): mergeTwoArray()\n',
+    'Exercise (5): countVowel()\n',
+    '\n\n\n'
+)
