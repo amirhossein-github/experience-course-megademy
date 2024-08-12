@@ -4,7 +4,6 @@ console.clear()
 
 /**
  * This function It sorts the array it is given and returns it.
- * Notice: Removes duplicate values
  * @constructor
  * @param {Array} array - Input array to sort it.
  */
@@ -65,26 +64,37 @@ function arraySorter(array) {
         for (let ii = 0; ii < resultArray.length; ii++) {
             
             // (4) Now, if the index of the input array is smaller than the result array,
-            // then put this instead of that index, we will do this using the splice method. 'splice()'
+            // Then put this instead of that index, we will do this using the splice method. 'splice()'
             if (array[i] < resultArray[ii]) {
                 resultArray.splice(ii, 0, array[i])
                 break
-            }
 
-            // And in the meantime, if you check the array to the end and the index was not in the result array, then it is clear that it is the largest of all.
-            // As a result, add it to the end of the result array
-            if ((resultArray.length - 1) === ii && !resultArray.includes(array[i])) {
+            // (5) Now, if the index of the input array is equal to the result array,
+            // I put the index after the compared index, not instead of it. 'ii+1'
+            } else if (array[i] === resultArray[ii]) {
+                resultArray.splice(ii+1, 0, array[i])
+                break
+
+            // (6) Now, if the index of the input array is bigger the result array and we are not in the end of result array,
+            //Skip
+            } else if (array[i] > resultArray[ii] && (resultArray.length - 1) !== ii) {
+                continue
+
+            // (7) Now, if the index of the input array is bigger the result array and we are in the end of result array,
+            // Set the index as the last index of the array
+            } else if (array[i] > resultArray[ii] && (resultArray.length - 1) === ii) {
                 resultArray.push(array[i])
+                
             }
-
+            
         }
-
+        
     }
 
-    // (5) And finally we return the sorted array as the result
+    // (8) And finally we return the sorted array as the result
     return resultArray
 
-    // (6) The second solution instead of 100 lines of code:
+    // (9) The second solution instead of 100 lines of code:
     return array.sort()
 }
 
