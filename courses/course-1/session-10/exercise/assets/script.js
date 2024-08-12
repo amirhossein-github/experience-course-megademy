@@ -104,3 +104,88 @@ console.log(array2, ':::::', arraySorter(array2))
 console.log(array3, ':::::', arraySorter(array3))
 console.log(array4, ':::::', arraySorter(array4))
 console.groupEnd()
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (2)
+
+/**
+ * This function prints star
+ * and starts from a star in the first line
+ * and goes up to the highest number entered by the user and goes through the same way
+ * until it reaches a star in the line twice.
+ * @constructor
+ * @param {number} number - Maximum number of star(*) in a line.
+ */
+function stars(number) {
+
+    /*
+
+    Initialize
+
+    */
+    // Limiting the number of times print 
+    const limitation = 100
+    // The character to be printed in each line
+    const char = '*'
+
+    /*
+    
+    Input Validation
+
+    */
+    // First, check for data type:
+    if (typeof number !== 'number') {
+        return `Error: Your argument is not 'number' (${number})`
+    }
+
+    // Second, check for NaN value:
+    if (isNaN(number)) {
+        return `Error: Your argument is is Nan value (${number})`
+    }
+
+    // Third, set limitation:
+    if (number > limitation) {
+        return `Error: Your input number is too big. It must be lower than (${limitation})`
+    }
+
+    /*
+
+    Operation Process
+
+    */
+    // Forward Loop
+    for (let i = 0; i <= number-1; i++) {
+        let output = ''
+        for (let ii = 0; ii <= i; ii++) {
+            output += char
+        }
+        console.log(output)
+    }
+    // Backward Loop
+    for (let i = number-1; i > 0; i--) {
+        let output = ''
+        for (let ii = 0; ii < i; ii++) {
+            output += char
+        }
+        console.log(output)
+    }
+
+}
+
+// ----------------------------------------------------------------------------------------------------
+// Display the details of the output of the 'Exercise (2)'
+
+const stars0 = 1
+const stars1 = 2
+const stars2 = NaN
+const stars3 = 101
+const stars4 = 'hey man'
+
+console.group()
+console.warn('Exercise (2): The function that is supposed to print the star:')
+console.log(stars0, ':::::', stars(stars0))
+console.log(stars1, ':::::', stars(stars1))
+console.log(stars2, ':::::', stars(stars2))
+console.log(stars3, ':::::', stars(stars3))
+console.log(stars4, ':::::', stars(stars4))
+console.groupEnd()
