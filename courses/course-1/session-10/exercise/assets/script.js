@@ -199,3 +199,116 @@ console.log(stars2, ':::::', stars(stars2))
 console.log(stars3, ':::::', stars(stars3))
 console.log(stars4, ':::::', stars(stars4))
 console.groupEnd()
+
+// ----------------------------------------------------------------------------------------------------
+// Exercise (3)
+
+/**
+ * This function searches the target value in the text we give it.
+ * It also gives us the number of repetitions and the coordinates of all repetitions.
+ * @constructor
+ * @param {string} string - The text.
+ * @param {string} target - The text that is supposed to be searched.
+ */
+function searcherV2(string, target){
+
+    /*
+    
+    Input Validation
+
+    */
+    // Parameter 'string'
+    // First, if not string. (A)
+    if (typeof string !== 'string') {
+        return `Error: Your argument is not 'string' (${string})`
+    }
+    // Second, check for string length. (B)
+    if (string.length === 0) {
+        return ':\\ Empty string, ناموسا'
+    }
+
+    // Parameter 'target'
+    // First, if not string. (A)
+    if (typeof target !== 'string') {
+        return `Error: Your argument is not 'string' (${string})`
+    }
+    // Second, check for string length. (B)
+    if (target.length === 0) {
+        return ':\\ Empty string, ناموسا'
+    }
+
+    /*
+    
+    Initialize
+
+    */
+   // 1) First of all, in order to be able to perform the compare operation,
+   // we must convert both strings into an array of characters to perform a character-by-character comparison.
+    let arrayString = string.split('')
+    let arrayTarget = target.split('')
+
+    let isEqualToTarget = ''
+    let resultCoordinates = []
+
+    /*
+
+    Operation Process
+
+    */
+    // 2) Now I loop over the character array of our text so that we can access each character.
+    for (let i = 0; i < arrayString.length; i++){
+
+        // 3) If the selected character is equal to the first 'target' character,
+        // go to the next step, if not, go to the next character.
+        if (arrayString[i] === arrayTarget[0]){
+
+            // 4) Now, we move forward in the character array of our text by the size of the 'target' text from where the point of common point is.
+            // And we store character by character in a variable.
+            for (let x = 0; x < arrayTarget.length; x++){
+
+                isEqualToTarget += arrayString[x+i]
+
+            }
+
+            // 5) Now if the separated characters were equal to the target value.
+            // We store its coordinates in the variable.
+            if (isEqualToTarget === target){
+                isEqualToTarget = ''
+                resultCoordinates.push(i)
+
+            // Otherwise, we will empty our variable and go to the next letter.
+            } else {
+                isEqualToTarget = ''
+                
+            }
+
+        }
+
+    }
+
+    // 6) And finally we return result as object
+    return {
+        duplicate: resultCoordinates.length,
+        coordinates: resultCoordinates
+    }
+
+}
+
+// ----------------------------------------------------------------------------------------------------
+// Display the details of the output of the 'Exercise (3)'
+
+const searcherV2DefaultText = 'amirhossein, amirhossein, ss, mo, khateri, class, magic, sky, pixel, game, gold, wow, nature, sun, panda, karate, star, hard, time, problem, numbers, good, luck, link, like, earth, pen, paper, red, blue, green, yellow, white, water, black, css, html, js, javascript, mouse, keyboard, monitor, speaker, sofa, chair, napkin, phone, mobile, pc, personal computer, else, if, var, const, let, for, while, do, done, fi, null, undefined, NaN, google, yahoo, com, net, ir, http, https, address, ip.'
+const searcherV2_0 = 'a'
+const searcherV2_1 = 'amir'
+const searcherV2_2 = 'wh'
+const searcherV2_3 = ', '
+const searcherV2_4 = 'khateri'
+
+console.group()
+console.warn('Exercise (3): The function that is supposed text searcher:')
+console.log('\'' + searcherV2_0 + '\'', ':::::', searcherV2(searcherV2DefaultText, searcherV2_0))
+console.log('\'' + searcherV2_1 + '\'', ':::::', searcherV2(searcherV2DefaultText, searcherV2_1))
+console.log('\'' + searcherV2_2 + '\'', ':::::', searcherV2(searcherV2DefaultText, searcherV2_2))
+console.log('\'' + searcherV2_3 + '\'', ':::::', searcherV2(searcherV2DefaultText, searcherV2_3))
+console.log('\'' + searcherV2_4 + '\'', ':::::', searcherV2(searcherV2DefaultText, searcherV2_4))
+console.groupEnd()
