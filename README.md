@@ -46,6 +46,7 @@
 - [Session 6](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-6/exercise/README.md) - Object School - With Comment Section
 - [Session 8](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-8/exercise/README.md) - Exercise in Relation to Concepts: String Methods, If and Else, Logical Operators
 - [Session 9](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-9/exercise/README.md) - Exercise in Relation to Concepts: Function and Return
+- [Session 10](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-10/exercise/README.md) - Exercise in Relation to Concepts: For Loop
 
 ## Course 2
 Coming soon.
