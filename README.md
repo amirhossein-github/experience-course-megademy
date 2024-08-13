@@ -20,6 +20,7 @@
 - [Session 7](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-7/README.md) - Data Structure Stack and Queue, Flowchart and Algorithm, If and Operators.
 - [Session 8](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-8/README.md) - Assignment, Logical Operators, If and Else and Else If, Exercise.
 - [Session 9](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-9/README.md) - Review Exercises, How to be Better Developer, Functions, Exercise.
+- [Session 10](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-10/README.md) - For loop.
 
 #### Course Members
 <a href="https://github.com/amirhossein-github">![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)</a>
