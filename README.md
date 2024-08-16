@@ -8,7 +8,7 @@
 **Teacher-Assistant**: [Saber Heydari](https://saberheydari.ir/)<br>
 **Teacher-Assistant**: [Majid Kargar](https://github.com/fulcain)<br>
 **Date-Start**: 1403-04-12, 2024-07-02<br>
-**Date-End**: **Undefined ❓**<br>
+**Date-End**: 1403-05-28, 2024-08-18<br>
 
 #### Course Sessions
 - [Session 1](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-1/README.md) - Overview.
