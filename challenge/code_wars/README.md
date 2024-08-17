@@ -3,3 +3,4 @@
 **Address**: [codewars.com](https://www.codewars.com/)<br>
 
 - [Challenge 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/code_wars/challenges/two_to_one.js) - Two to One.
+- [Challenge 5](https://github.com/amirhossein-github/teacher-khateri/blob/main/challenge/code_wars/challenges/array.diff.js) - Array.diff.
