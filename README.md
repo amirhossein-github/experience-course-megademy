@@ -22,6 +22,7 @@
 - [Session 9](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-9/README.md) - Review Exercises, How to be Better Developer, Functions, Exercise.
 - [Session 10](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-10/README.md) - For loop.
 - [Session 11](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-11/README.md) - DOM.
+- [Session 12](https://github.com/amirhossein-github/master-khateri/blob/main/courses/course-1/session-12/README.md) - Git commit and DOM.
 
 #### Course Members
 <a href="https://github.com/amirhossein-github">![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)</a>
