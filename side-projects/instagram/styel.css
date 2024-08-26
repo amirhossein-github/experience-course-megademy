@@ -1,0 +1,126 @@
+/* In general */
+body {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Main */
+#main {
+    display: inline-block;
+    width: 850px;
+    margin: 32px;
+}
+
+/* Main - Left */
+#main-left{
+    float: left;
+}
+
+/* Main - Right */
+#main-right {
+    float: right;
+    width: 350px;
+}
+
+/* Main - Right - Login Form */
+#main-right-login_form {
+    padding: 35px 0;
+    border: 1px solid #DBDBDB;
+}
+#main-right-login_form input{
+    border: 1px solid #DBDBDB;
+    background-color: rgb(243, 242, 242);
+    width: 270px;
+    height: 30px;
+    margin: 5px;
+}
+#main-right-button_login {
+    background-color: #4CB5F9;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+    width: 270px;
+    margin-top: 10px;
+    padding: 6px;
+}
+#main-right-line_or {
+    margin: 20px 0;
+}
+#main-right-line_or svg{
+    stroke: #949189;
+    stroke-width: 1;
+    vertical-align: bottom;
+}
+#main-right-line_or span{
+    color: #949189;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+#mian-rigth-facebook img{
+    width: 15px;
+}
+#mian-rigth-facebook a{
+    color: #385185;
+    font-weight: bold;
+    margin: 24px 0;
+}
+#main-right-forget_password a{
+    margin: 18px 0;
+    display: block;
+    color: #29507E;
+    font-size: 12px;
+}
+#main-right-report {
+    display: inline-block;
+    margin: 20px 30px;
+    color: #928D8A;
+    font-size: 12px;
+}
+#main-right-report a{
+    color: #214D79;
+}
+
+/* Main - Right - Sign Up */
+#main-right-sign_up {
+    border: 1px solid #DBDBDB;
+    padding: 30px 0;
+    margin: 10px 0;
+}
+#main-right-sign_up span{
+    font-size: 15px;
+}
+#main-right-sign_up a{
+    color: #4CB5F9;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* Main - Right - Get App */
+#main-right-get_app span{
+    font-size: 15px;
+    display: block;
+    margin: 10px;
+}
+#main-right-get_app img{
+    width: 150px;
+    height: 50px;
+}
+
+/* Footer */
+#footer-top a{
+    color: #777d92;
+    font-size: 13px;
+    margin: 0 5px;
+}
+
+#footer-botton {
+    color: #777d92;
+    font-size: 13px;
+    margin: 20px 0;
+    padding-bottom: 32px;
+}
