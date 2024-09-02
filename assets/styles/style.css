@@ -73,7 +73,7 @@ body {
                     
                     > li {
                         position: relative;
-                        width: 60px;
+                        width: 70px;
                         margin: 5px;
                         border-radius: 10px;
                         
@@ -92,7 +92,7 @@ body {
                                 width: 25px;
                                 border-radius: 50%;
                                 position: absolute;
-                                left: 55px;
+                                left: 65px;
                                 top: -1px;
                                 
                                 > a {
