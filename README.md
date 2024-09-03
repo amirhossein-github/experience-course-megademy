@@ -9,7 +9,7 @@
 **Date-End**: **Undefined ❓**<br>
 
 #### Course Sessions
-- [Session 1](./courses/course-2/session-1/README.md) - Review Projects, Discussion About the Algorithm of the new Project.
+- [Session 1](./courses/course-2/session-1/README.md) - Talk about a new project: note application
 
 #### Course Members
 <a href="https://github.com/amirhossein-github">![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)</a>
@@ -30,7 +30,7 @@
 <!-- <a href="https://github.com/arashliravi">![Static Badge](https://img.shields.io/badge/%40arashliravi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Farashliravi)</a> -->
 
 #### Course Exercises
-**Undefined ❓**
+- [Session 1](./courses/course-2/session-1/exercise/flowchart.png) - Flowchart of simple note application
 
 ## Course 1
 #### Course Description
