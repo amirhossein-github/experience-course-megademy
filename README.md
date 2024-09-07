@@ -32,6 +32,7 @@
 
 #### Course Exercises
 - [Session 1](./courses/course-2/session-1/exercise/flowchart.png) - Flowchart of simple note application
+- [Session 2](./courses/course-2/session-2/exercise/README.md) - Exercise of section session
 
 ## Course 1
 #### Course Description
