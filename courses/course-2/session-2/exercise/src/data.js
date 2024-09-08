@@ -20,7 +20,7 @@ export let board = {
         height: 500
     },
     music: {
-        object: new Audio('../assets/sounds/sound.mp3'),
+        object: new Audio('./assets/sounds/sound.mp3'),
         isActive: false
     }
 }
