@@ -2,11 +2,6 @@ import { board, player } from './data.js';
 
 export function render(){
 
-    // Sound
-    let audioElement = document.createElement('audio')
-    audioElement.id = board.music.id
-    audioElement.src = board.music.path
-
     // Player
     let divPlayer = document.createElement('div')
     divPlayer.id = player.id
@@ -28,5 +23,4 @@ export function render(){
     // HTML injection
     divBoard.appendChild(divPlayer)
     document.body.appendChild(divBoard)
-    document.body.appendChild(audioElement)
 }

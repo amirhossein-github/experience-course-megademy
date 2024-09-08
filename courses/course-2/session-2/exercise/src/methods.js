@@ -41,13 +41,14 @@ export class Option{
 
     static musicController(board){
         if (board.music.isActive){
-            document.getElementById(board.music.id).pause()
+            board.music.object.pause()
             board.music.isActive = false
 
         } else {
-            document.getElementById(board.music.id).play();
+            board.music.object.play()
             board.music.isActive = true
            
         }
+
     }
 }
