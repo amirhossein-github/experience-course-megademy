@@ -11,6 +11,8 @@
 #### Course Sessions
 - [Session 1](./courses/course-2/session-1/README.md) - Talk about a new project: note application
 - [Session 2](./courses/course-2/session-2/README.md) - Flowchart: note application
+- [Session 3](./courses/course-2/session-3/README.md) - Exercise Checking
+- [Session 4](./courses/course-2/session-4/README.md) - Progress in the project: note application, And Source of app
 
 #### Course Members
 <a href="https://github.com/amirhossein-github">![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)</a>
@@ -26,6 +28,7 @@
 <a href="https://github.com/danial87j">![Static Badge](https://img.shields.io/badge/%40danial87j-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Fdanial87j)</a>
 <a href="https://github.com/amirali192">![Static Badge](https://img.shields.io/badge/%40amirali192-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirali192)</a>
 <a href="https://github.com/ArshiaArshadi">![Static Badge](https://img.shields.io/badge/%40ArshiaArshadi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FArshiaArshadi)</a>
+<!-- <a href="https://github.com/Rezafouladi">![Static Badge](https://img.shields.io/badge/%40Rezafouladi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FRezafouladi)</a> -->
 <!-- <a href="https://github.com/raharz">![Static Badge](https://img.shields.io/badge/%40raharz-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Fraharz)</a> -->
 <!-- <a href="https://github.com/D6NiII9L">![Static Badge](https://img.shields.io/badge/%40D6NiII9L-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FD6NiII9L)</a> -->
 <!-- <a href="https://github.com/arashliravi">![Static Badge](https://img.shields.io/badge/%40arashliravi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Farashliravi)</a> -->
@@ -73,6 +76,7 @@
 <a href="https://github.com/D6NiII9L">![Static Badge](https://img.shields.io/badge/%40D6NiII9L-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FD6NiII9L)</a>
 <a href="https://github.com/ArshiaArshadi">![Static Badge](https://img.shields.io/badge/%40ArshiaArshadi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FArshiaArshadi)</a>
 <a href="https://github.com/arashliravi">![Static Badge](https://img.shields.io/badge/%40arashliravi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Farashliravi)</a>
+<a href="https://github.com/Rezafouladi">![Static Badge](https://img.shields.io/badge/%40Rezafouladi-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2FRezafouladi)</a>
 
 #### Course Exercises
 - [Session 4](https://github.com/amirhossein-github/teacher-khateri/blob/main/courses/course-1/session-4/exercise/README.md) - Object School
