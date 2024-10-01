@@ -13,6 +13,8 @@
 - [Session 2](./courses/course-2/session-2/README.md) - Flowchart: note application
 - [Session 3](./courses/course-2/session-3/README.md) - Exercise Checking
 - [Session 4](./courses/course-2/session-4/README.md) - Progress in the project: note application, And Source of app
+- [Session 5](./courses/course-2/session-5/README.md) - Prsim, remove(), parentNode, parentElement, github.dev
+- [Session 6](./courses/course-2/session-6/README.md) - Local Storage Methods
 
 #### Course Members
 <a href="https://github.com/amirhossein-github">![Static Badge](https://img.shields.io/badge/%40amirhossein--github-0?style=plastic&logo=github&color=black&link=https%3A%2F%2Fgithub.com%2Famirhossein-github)</a>
