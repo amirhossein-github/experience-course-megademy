@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Entry Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="form-container">
+            <h1>Enter Information</h1>
+            <form id="inputForm">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+                <label for="number">Number</label>
+                <input type="text" id="number" name="number" placeholder="Enter your number" required>
+
+                <label for="score">Score</label>
+                <input type="text" id="score" name="score" placeholder="Enter your score" required>
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+        <div class="output-container">
+            <h2>Submitted Information</h2>
+            <table class="output-table" id="output">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Number</th>
+                        <th>Score</th>
+                        <th>ID</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Results will be displayed here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
